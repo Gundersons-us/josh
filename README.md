@@ -1,2 +1,2 @@
-# joshg253.github.io
+# gundersons-us.github.io/josh/
 Gunderblog
