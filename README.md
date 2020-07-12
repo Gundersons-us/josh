@@ -1,2 +1,2 @@
-# gundersons-us.github.io/josh/
+# gundersons-us.github.io/josh
 Gunderblog
