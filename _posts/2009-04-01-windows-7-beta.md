@@ -4,7 +4,7 @@ title: Windows 7 beta
 date: 2009-04-01T14:45:06-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=630
+guid: http://blog.gundersons.us/?p=630
 permalink: /2009/04/01/windows-7-beta/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
@@ -33,7 +33,7 @@ I recently upgraded my 8710w (my main home system; it stays closed and plugged i
 Software, etc. I used regularly on Vista Ultimate x86 that still works fine on the Windows 7 x64 beta:
 
 <ul>
-    <li><strong>Adobe <a href="http://www.adobe.com/products/photoshop/photoshopextended/">Photoshop CS4 Extended</a></strong> - The x64 version and it loads very fast and I haven't seen anything weird yet. The only thing I've really done with it so far is create the Custom Logo™ for my <em>Kverke.com Mail Powered by Google</em>®. I'll mess with some of my recent RAW files and see if I can break it.</li>
+    <li><strong>Adobe <a href="http://www.adobe.com/products/photoshop/photoshopextended/">Photoshop CS4 Extended</a></strong> - The x64 version and it loads very fast and I haven't seen anything weird yet. The only thing I've really done with it so far is create the Custom Logo™ for my <em>gundersons.us Mail Powered by Google</em>®. I'll mess with some of my recent RAW files and see if I can break it.</li>
     <li><strong><a href="http://www.propellerheads.se/products/reason/">Reason</a> 4</strong> - I use Reason 4 with my <a href="http://www.akaipro.com/mpk49">Akai MPK49</a>. I had a slight hiccup (the MPK would no longer control the software; I unplugged the USB cable and plugged it back in and it worked again) while I was trying to get the MIDI Clock Beat Sync setup but I think it was because I selected the wrong MPK49 option (select one of the two similar ones, not the different one) in the Advanced Control screen.</li>
     <li><strong><a href="http://www.trillian.im/">Trillian Astra</a></strong> - I've been on the alpha test since September of '07. It's not the most efficient piece of software, but I like only having to run one IM program (<a href="http://www.pidgin.im/">Pidgin</a> is good too, less of a resource hog, but there were a few features I like about Trillian better). A lot of the time when an IM window opens, or when I open the main window, the software will grab a 100% of a core (would be the whole system if I didn't have two cores) for 10-20 seconds before responding. Each build works better than the last (except the couple times where they broke something with a new build, but they immediately came out with fixes for those rare occasions). It works about the same as it did on Vista, or maybe better because I'm using a newer build by now.</li>
 </ul>

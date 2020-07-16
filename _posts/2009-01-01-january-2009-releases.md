@@ -4,7 +4,7 @@ title: January 2009 Releases
 date: 2009-01-01T01:16:02-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=304
+guid: http://blog.gundersons.us/?p=304
 permalink: /2009/01/01/january-2009-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

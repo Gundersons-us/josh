@@ -4,7 +4,7 @@ title: Atmosphere in Seattle
 date: 2008-05-22T18:54:37-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=75
+guid: http://blog.gundersons.us/?p=75
 permalink: /2008/05/22/atmosphere-in-seattle/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

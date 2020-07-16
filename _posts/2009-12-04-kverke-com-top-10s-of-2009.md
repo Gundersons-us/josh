@@ -1,10 +1,10 @@
 ---
 id: 763
-title: Kverke.com Top 10s of 2009
+title: gundersons.us Top 10s of 2009
 date: 2009-12-04T17:06:58-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=763
+guid: http://blog.gundersons.us/?p=763
 permalink: /2009/12/04/kverke-com-top-10s-of-2009/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

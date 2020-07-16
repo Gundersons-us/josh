@@ -4,7 +4,7 @@ title: September 2008 Releases
 date: 2008-08-27T01:36:11-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=96
+guid: http://blog.gundersons.us/?p=96
 permalink: /2008/08/27/notable-releases-for-september-2008/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

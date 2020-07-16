@@ -4,7 +4,7 @@ title: Site updates, moving, Bellingham
 date: 2007-10-11T20:35:38-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/2007/10/11/site-updates-moving-bellingham/
+guid: http://blog.gundersons.us/2007/10/11/site-updates-moving-bellingham/
 permalink: /2007/10/11/site-updates-moving-bellingham/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Gmail Themes
 date: 2008-11-20T16:16:50-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=355
+guid: http://blog.gundersons.us/?p=355
 permalink: /2008/11/20/gmail-themes/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

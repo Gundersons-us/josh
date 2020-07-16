@@ -4,7 +4,7 @@ title: 'O&#8217;Reilly Media Wish List'
 date: 2011-01-28T22:20:12-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1065
+guid: http://blog.gundersons.us/?p=1065
 permalink: /2011/01/28/oreilly-media-wish-list/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

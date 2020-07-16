@@ -4,7 +4,7 @@ title: April 2009 Releases
 date: 2009-03-25T01:25:32-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=468
+guid: http://blog.gundersons.us/?p=468
 permalink: /2009/03/25/april-2009-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

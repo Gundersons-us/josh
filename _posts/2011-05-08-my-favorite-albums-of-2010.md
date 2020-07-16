@@ -4,7 +4,7 @@ title: My favorite albums of 2010
 date: 2011-05-08T20:11:14-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1157
+guid: http://blog.gundersons.us/?p=1157
 permalink: /2011/05/08/my-favorite-albums-of-2010/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

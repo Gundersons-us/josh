@@ -4,7 +4,7 @@ title: Use the same profile for multiple Portable Firefox versions
 date: 2014-02-11T01:37:05-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1317
+guid: http://blog.gundersons.us/?p=1317
 permalink: /2014/02/11/use-the-same-profile-for-multiple-portable-firefox-versions/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

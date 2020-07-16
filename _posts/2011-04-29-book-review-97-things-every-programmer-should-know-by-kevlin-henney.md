@@ -4,7 +4,7 @@ title: 'Book Review: 97 Things Every Programmer Should Know by Kevlin Henney'
 date: 2011-04-29T23:30:34-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1110
+guid: http://blog.gundersons.us/?p=1110
 permalink: /2011/04/29/book-review-97-things-every-programmer-should-know-by-kevlin-henney/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

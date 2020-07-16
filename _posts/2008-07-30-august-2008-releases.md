@@ -4,7 +4,7 @@ title: August 2008 Releases
 date: 2008-07-30T02:51:10-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=88
+guid: http://blog.gundersons.us/?p=88
 permalink: /2008/07/30/august-2008-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

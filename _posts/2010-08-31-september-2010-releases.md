@@ -4,7 +4,7 @@ title: September 2010 Releases
 date: 2010-08-31T11:31:58-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=975
+guid: http://blog.gundersons.us/?p=975
 permalink: /2010/08/31/september-2010-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

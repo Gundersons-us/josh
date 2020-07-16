@@ -4,7 +4,7 @@ title: 'April Fools&#8217; Day around the web'
 date: 2009-04-01T11:10:00-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=626
+guid: http://blog.gundersons.us/?p=626
 permalink: /2009/04/01/april-fools-day-around-the-web/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

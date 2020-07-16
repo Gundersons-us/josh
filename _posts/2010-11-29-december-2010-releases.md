@@ -4,7 +4,7 @@ title: December 2010 Releases
 date: 2010-11-29T01:57:42-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1042
+guid: http://blog.gundersons.us/?p=1042
 permalink: /2010/11/29/december-2010-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

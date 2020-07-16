@@ -4,7 +4,7 @@ title: November 2009 Releases
 date: 2009-10-28T01:13:07-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=734
+guid: http://blog.gundersons.us/?p=734
 permalink: /2009/10/28/november-2009-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

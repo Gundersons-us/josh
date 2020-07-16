@@ -4,7 +4,7 @@ title: 'Guitar Hero: Aerosmith, Sears/UPS rant'
 date: 2008-06-24T01:28:46-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=91
+guid: http://blog.gundersons.us/?p=91
 permalink: /2008/06/24/notable-releases-for-june-29-2008/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

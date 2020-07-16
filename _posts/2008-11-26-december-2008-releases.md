@@ -4,7 +4,7 @@ title: December 2008 Releases
 date: 2008-11-26T01:30:58-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=296
+guid: http://blog.gundersons.us/?p=296
 permalink: /2008/11/26/december-2008-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

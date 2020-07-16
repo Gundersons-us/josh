@@ -4,7 +4,7 @@ title: Atmosphere in Bellingham
 date: 2008-02-21T01:05:50-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/2008/02/21/atmosphere-in-bellingham/
+guid: http://blog.gundersons.us/2008/02/21/atmosphere-in-bellingham/
 permalink: /2008/02/21/atmosphere-in-bellingham/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

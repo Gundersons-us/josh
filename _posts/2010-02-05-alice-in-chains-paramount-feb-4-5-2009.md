@@ -4,7 +4,7 @@ title: Alice in Chains @ Paramount, Feb. 4-5, 2009
 date: 2010-02-05T12:36:55-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=803
+guid: http://blog.gundersons.us/?p=803
 permalink: /2010/02/05/alice-in-chains-paramount-feb-4-5-2009/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

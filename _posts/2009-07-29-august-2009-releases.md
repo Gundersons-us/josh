@@ -4,7 +4,7 @@ title: August 2009 Releases
 date: 2009-07-29T01:06:20-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=668
+guid: http://blog.gundersons.us/?p=668
 permalink: /2009/07/29/august-2009-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

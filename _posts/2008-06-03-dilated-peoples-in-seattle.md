@@ -4,7 +4,7 @@ title: Dilated Peoples in Seattle
 date: 2008-06-03T01:55:43-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=80
+guid: http://blog.gundersons.us/?p=80
 permalink: /2008/06/03/dilated-peoples-in-seattle/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: March 2010 Releases
 date: 2010-02-24T01:23:36-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=771
+guid: http://blog.gundersons.us/?p=771
 permalink: /2010/02/24/march-2010-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Firefox 3 Released!
 date: 2008-06-17T16:30:26-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=90
+guid: http://blog.gundersons.us/?p=90
 permalink: /2008/06/17/firefox-3-released/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: January 2012 Releases
 date: 2011-12-28T01:36:56-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1240
+guid: http://blog.gundersons.us/?p=1240
 permalink: /2011/12/28/january-2012-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

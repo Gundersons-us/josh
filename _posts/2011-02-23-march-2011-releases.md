@@ -4,7 +4,7 @@ title: March 2011 Releases
 date: 2011-02-23T01:50:19-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1062
+guid: http://blog.gundersons.us/?p=1062
 permalink: /2011/02/23/march-2011-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

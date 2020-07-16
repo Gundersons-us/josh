@@ -4,7 +4,7 @@ title: September 2011 Releases
 date: 2011-08-31T01:42:55-07:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=1211
+guid: http://blog.gundersons.us/?p=1211
 permalink: /2011/08/31/september-2011-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

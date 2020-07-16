@@ -4,7 +4,7 @@ title: Metallica, Lamb of God, and The Sword at Key Arena
 date: 2008-12-19T18:41:23-08:00
 author: joshg253
 layout: post
-guid: http://blog.kverke.com/?p=370
+guid: http://blog.gundersons.us/?p=370
 permalink: /2008/12/19/metallica/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
