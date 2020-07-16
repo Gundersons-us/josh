@@ -17,7 +17,7 @@ tags:
   - music
   - Type O Negative
 ---
-<h3><a href="http://en.wikipedia.org/wiki/File:Lamb_of_God_-_Wrath.JPG"><img class="size-full wp-image-441 alignright" style="border: 0pt none" title="Wrath" src="/wp-content/uploads/2009/02/lamb_of_god_-_wrath.jpg" alt="Wrath album art" width="200" height="200" /></a>
+<h3><a href="http://en.wikipedia.org/wiki/File:Lamb_of_God_-_Wrath.JPG"><img class="size-full wp-image-441 alignright" style="border: 0pt none" title="Wrath" src="/josh/wp-content/uploads/2009/02/lamb_of_god_-_wrath.jpg" alt="Wrath album art" width="200" height="200" /></a>
 Overall</h3>
 
 The levels seem weird, like I'm listening to the radio or a cassette tape. I hope it's just a shitty rip or transcode or something. I like the drum tone on the last two albums better as the snare sounds bizarre at times. It's Lamb of God and it fucking rocks. I can't wait to get the special edition and scream along in the car.

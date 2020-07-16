@@ -20,7 +20,7 @@ tags:
   - The Showbox
   - Washington
 ---
-<a href="/wp-content/uploads/2007/03/1207062224.jpg" title="1207062224.jpg"><img src="/wp-content/uploads/2007/03/1207062224.thumbnail.jpg" alt="1207062224.jpg" /></a> <a href="/wp-content/uploads/2007/03/1207062224a.jpg" title="1207062224a.jpg"><img src="/wp-content/uploads/2007/03/1207062224a.thumbnail.jpg" alt="1207062224a.jpg" /></a> <a href="/wp-content/uploads/2007/03/1207062322.jpg" title="1207062322.jpg"><img src="/wp-content/uploads/2007/03/1207062322.thumbnail.jpg" alt="1207062322.jpg" /></a>
+<a href="/josh/wp-content/uploads/2007/03/1207062224.jpg" title="1207062224.jpg"><img src="/josh/wp-content/uploads/2007/03/1207062224.thumbnail.jpg" alt="1207062224.jpg" /></a> <a href="/josh/wp-content/uploads/2007/03/1207062224a.jpg" title="1207062224a.jpg"><img src="/josh/wp-content/uploads/2007/03/1207062224a.thumbnail.jpg" alt="1207062224a.jpg" /></a> <a href="/josh/wp-content/uploads/2007/03/1207062322.jpg" title="1207062322.jpg"><img src="/josh/wp-content/uploads/2007/03/1207062322.thumbnail.jpg" alt="1207062322.jpg" /></a>
 
 We went to the Showbox to see the Blood Brothers on Thursday. We missed the first band, Brothers And Sisters, but we saw the end of Celebration's set. They were ok. The song War was very energetic, especially in contrast to the other songs they played. I liked how the singer would play the tambourine or hit the drum in front of her while she sang.
 
