@@ -1,1 +1,5 @@
+url: http://blogs.gundersons.us/josh
+name: GunderBlog
+description: 'Josh&#039;s Blog'
 theme: jekyll-theme-hacker
+baseurl: "/josh"
