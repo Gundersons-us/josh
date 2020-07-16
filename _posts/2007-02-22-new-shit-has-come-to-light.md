@@ -4,7 +4,7 @@ title: New shit has come to light.
 date: 2007-02-22T19:36:22-08:00
 author: joshg253
 layout: post
-guid: http://kverke.com/wp/?p=16
+guid: http://blogs.gundersons.us/josh/?p=16
 permalink: /2007/02/22/new-shit-has-come-to-light/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

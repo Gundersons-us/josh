@@ -16,6 +16,6 @@ tags:
 ---
 Google finally activated Themes for my Google Apps for your Domain e-mail accounts. I'm now seriously thinking about switching to using that as my main e-mail. Here's what mine looks like right now with my custom image:
 
-<p style="text-align: center"><a href="http://blog.gundersons.us/wp-content/uploads/2009/03/mail-ss.png"><img class="aligncenter size-medium wp-image-596" style="border: 0pt none" title="kverke.com mail screenshot" src="http://blog.gundersons.us/wp-content/uploads/2009/03/mail-ss-300x230.png" alt="kverke.com mail screenshot" width="300" height="230" /></a></p>
+<p style="text-align: center"><a href="/wp-content/uploads/2009/03/mail-ss.png"><img class="aligncenter size-medium wp-image-596" style="border: 0pt none" title="kverke.com mail screenshot" src="/wp-content/uploads/2009/03/mail-ss-300x230.png" alt="kverke.com mail screenshot" width="300" height="230" /></a></p>
 
 Dope, huh?

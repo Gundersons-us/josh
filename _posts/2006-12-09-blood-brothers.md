@@ -4,7 +4,7 @@ title: Blood Brothers!
 date: 2006-12-09T22:17:19-08:00
 author: joshg253
 layout: post
-guid: http://kverke.com/wp/?p=14
+guid: http://blogs.gundersons.us/josh/?p=14
 permalink: /2006/12/09/blood-brothers/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
@@ -20,7 +20,7 @@ tags:
   - The Showbox
   - Washington
 ---
-<a href="http://blog.gundersons.us/wp-content/uploads/2007/03/1207062224.jpg" title="1207062224.jpg"><img src="http://kverke.com/wp/wp-content/uploads/2007/03/1207062224.thumbnail.jpg" alt="1207062224.jpg" /></a> <a href="http://blog.gundersons.us/wp-content/uploads/2007/03/1207062224a.jpg" title="1207062224a.jpg"><img src="http://kverke.com/wp/wp-content/uploads/2007/03/1207062224a.thumbnail.jpg" alt="1207062224a.jpg" /></a> <a href="http://blog.gundersons.us/wp-content/uploads/2007/03/1207062322.jpg" title="1207062322.jpg"><img src="http://kverke.com/wp/wp-content/uploads/2007/03/1207062322.thumbnail.jpg" alt="1207062322.jpg" /></a>
+<a href="/wp-content/uploads/2007/03/1207062224.jpg" title="1207062224.jpg"><img src="/wp-content/uploads/2007/03/1207062224.thumbnail.jpg" alt="1207062224.jpg" /></a> <a href="/wp-content/uploads/2007/03/1207062224a.jpg" title="1207062224a.jpg"><img src="/wp-content/uploads/2007/03/1207062224a.thumbnail.jpg" alt="1207062224a.jpg" /></a> <a href="/wp-content/uploads/2007/03/1207062322.jpg" title="1207062322.jpg"><img src="/wp-content/uploads/2007/03/1207062322.thumbnail.jpg" alt="1207062322.jpg" /></a>
 
 We went to the Showbox to see the Blood Brothers on Thursday. We missed the first band, Brothers And Sisters, but we saw the end of Celebration's set. They were ok. The song War was very energetic, especially in contrast to the other songs they played. I liked how the singer would play the tambourine or hit the drum in front of her while she sang.
 
