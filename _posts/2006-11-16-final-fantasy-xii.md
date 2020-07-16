@@ -4,7 +4,7 @@ title: Final Fantasy XII
 date: 2006-11-16T23:49:40-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=6
+guid: http://gundersons.us/josh/?p=6
 permalink: /2006/11/16/final-fantasy-xii/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

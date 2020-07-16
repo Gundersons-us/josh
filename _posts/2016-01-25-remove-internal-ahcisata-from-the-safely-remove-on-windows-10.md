@@ -4,7 +4,7 @@ title: Remove internal AHCI/SATA from the Safely Remove on Windows 10
 date: 2016-01-25T16:43:43-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1467
+guid: http://gundersons.us/josh/?p=1467
 permalink: /2016/01/25/remove-internal-ahcisata-from-the-safely-remove-on-windows-10/
 slide_template:
   - default

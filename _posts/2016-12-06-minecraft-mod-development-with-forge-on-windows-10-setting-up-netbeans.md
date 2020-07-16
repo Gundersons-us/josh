@@ -4,7 +4,7 @@ title: 'Minecraft mod development with Forge on Windows 10: Setting up NetBeans'
 date: 2016-12-06T21:55:09-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1688
+guid: http://gundersons.us/josh/?p=1688
 permalink: /2016/12/06/minecraft-mod-development-with-forge-on-windows-10-setting-up-netbeans/
 categories:
   - how-to

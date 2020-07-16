@@ -4,7 +4,7 @@ title: Linux tinkering during January 2017
 date: 2018-12-06T21:54:39-08:00
 author: joshg253
 layout: revision
-guid: https://blogs.gundersons.us/josh/2018/12/06/1774-revision-v1/
+guid: https://gundersons.us/josh/2018/12/06/1774-revision-v1/
 permalink: /2018/12/06/1774-revision-v1/
 ---
 TL;DR: Linux wot I done in Month One, Year One of Emperor-Lord Drumpf's reign.

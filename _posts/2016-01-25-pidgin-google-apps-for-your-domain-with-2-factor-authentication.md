@@ -4,7 +4,7 @@ title: Pidgin + Google Apps for Your Domain with 2-factor Authentication
 date: 2016-01-25T22:08:47-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1470
+guid: http://gundersons.us/josh/?p=1470
 permalink: /2016/01/25/pidgin-google-apps-for-your-domain-with-2-factor-authentication/
 slide_template:
   - default

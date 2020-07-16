@@ -4,7 +4,7 @@ title: More stuff added
 date: 2007-04-18T22:15:41-07:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=40
+guid: http://gundersons.us/josh/?p=40
 permalink: /2007/04/18/more-stuff-added/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Ubuntu MATE 15.04 Beta 1 in VirtualBox
 date: 2015-03-11T16:15:16-07:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1419
+guid: http://gundersons.us/josh/?p=1419
 permalink: /2015/03/11/ubuntu-mate-15-04-beta-1-in-virtualbox/
 layout_key:
   - ""

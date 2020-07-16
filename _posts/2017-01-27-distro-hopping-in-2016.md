@@ -4,7 +4,7 @@ title: Distro-hopping in 2016
 date: 2017-01-27T16:50:32-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1737
+guid: http://gundersons.us/josh/?p=1737
 permalink: /2017/01/27/distro-hopping-in-2016/
 categories:
   - software
@@ -103,7 +103,7 @@ Qubes is a really neat idea, separating types of activities into isolated VMs. I
 
 Ultimately, being unable to easily set up D0 (or whatever) the way I wanted, kinda turned me off.
 <h4>GParted Live</h4>
-Rearranging and resizing partitions, I eventually decided on the current setup (detailed in an <a href="http://blogs.gundersons.us/josh/2017/01/04/current-laptop-os-musings-2017-01-edition/">earlier post</a>) which is essentially four 20GB partitions for Linux distros, a shared 2GB swap partition, and the rest for Win10.
+Rearranging and resizing partitions, I eventually decided on the current setup (detailed in an <a href="http://gundersons.us/josh/2017/01/04/current-laptop-os-musings-2017-01-edition/">earlier post</a>) which is essentially four 20GB partitions for Linux distros, a shared 2GB swap partition, and the rest for Win10.
 <h4>Arch Anywhere</h4>
 I ended up reinstalling Arch again (twice) in October using a different tool called Arch Anywhere -- once while watching <a href="http://www.imdb.com/title/tt0212985/">Hannibal</a> (2001) and once while watching <a href="http://www.imdb.com/title/tt0099697/">Graveyard Shift</a> (1990).
 <h4>Ubuntu variants 16.10 releases</h4>
@@ -117,7 +117,7 @@ Also while watching as many ~horror movies as we could in October, I also tried 
 
 I also tried Lubuntu and Xubuntu, which were fine yet unremarkable. It is liikely my hatred for Gnome3 led me to skip Ubuntu-Gnome altogether.
 <h4>openSUSE</h4>
-As I've mentioned in a <a href="http://blogs.gundersons.us/josh/2017/01/12/linux-beginnings/">previous post</a>, SuSE + KDE3 was my preferred distro/DE combo in college ('04-'05). Now openSUSE just seems like a complicated &amp; bloated has-been.
+As I've mentioned in a <a href="http://gundersons.us/josh/2017/01/12/linux-beginnings/">previous post</a>, SuSE + KDE3 was my preferred distro/DE combo in college ('04-'05). Now openSUSE just seems like a complicated &amp; bloated has-been.
 <h4>Devuan</h4>
 While I think most distros nowadays have done so, it seems that switching to the systemd init system is a pretty controversial topic within the Linux community. <a href="https://devuan.org/">Devuan</a> (~"dev one") is a fork of Debian without systemd. And since it's Linux, regardless that it's still in beta, there are already several distros based upon it.
 

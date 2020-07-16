@@ -4,7 +4,7 @@ title: pCloud
 date: 2018-12-06T22:20:26-08:00
 author: joshg253
 layout: revision
-guid: https://blogs.gundersons.us/josh/2018/12/06/1852-revision-v1/
+guid: https://gundersons.us/josh/2018/12/06/1852-revision-v1/
 permalink: /2018/12/06/1852-revision-v1/
 ---
 2 years ago, the ruthless killing of the (then) best free cloud filesync app Copy was announced.

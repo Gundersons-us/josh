@@ -4,7 +4,7 @@ title: Reminiscing about making web pages
 date: 2015-03-01T12:03:27-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1405
+guid: http://gundersons.us/josh/?p=1405
 permalink: /2015/03/01/reminiscing-about-making-web-pages/
 layout_key:
   - ""

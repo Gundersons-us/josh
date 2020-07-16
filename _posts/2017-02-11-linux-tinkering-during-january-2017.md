@@ -4,7 +4,7 @@ title: Linux tinkering during January 2017
 date: 2017-02-11T01:16:42-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=1774
+guid: http://gundersons.us/josh/?p=1774
 permalink: /2017/02/11/linux-tinkering-during-january-2017/
 categories:
   - software

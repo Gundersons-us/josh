@@ -4,7 +4,7 @@ title: 'Gran Turismo 6 &#8211; GT Kart Championship 125 (non-shifter) B-Spec gui
 date: 2015-06-22T16:17:33-07:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=4
+guid: http://gundersons.us/josh/?p=4
 permalink: /2015/06/22/gran-turismo-6-gt-kart-championship-125-non-shifter-b-spec-guide/
 categories:
   - how-to

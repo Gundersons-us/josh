@@ -4,7 +4,7 @@ title: afterlight
 date: 2017-01-17T17:28:39-08:00
 author: joshg253
 layout: revision
-guid: http://blogs.gundersons.us/index.php/2017/01/17/1535-revision-v1/
+guid: http://gundersons.us/index.php/2017/01/17/1535-revision-v1/
 permalink: /index.php/2017/01/17/1535-revision-v1/
 ---
 /*

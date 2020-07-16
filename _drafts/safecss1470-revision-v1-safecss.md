@@ -5,7 +5,7 @@ date: 2016-01-20T09:57:27-08:00
 author: joshg253
 excerpt: Afterlight
 layout: revision
-guid: http://blogs.gundersons.us/index.php/2016/01/20/1470-revision-v1/
+guid: http://gundersons.us/index.php/2016/01/20/1470-revision-v1/
 permalink: /index.php/2016/01/20/1470-revision-v1/
 fw_options:
   - 'a:1:{i:0;s:0:"";}'

@@ -4,7 +4,7 @@ title: 'I&#8217;m finally feeling better, but still&#8230;'
 date: 2006-11-07T17:21:44-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=4
+guid: http://gundersons.us/josh/?p=4
 permalink: /2006/11/07/im-finally-feeling-better-but-still/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

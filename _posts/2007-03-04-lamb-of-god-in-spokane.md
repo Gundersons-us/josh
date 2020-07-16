@@ -4,7 +4,7 @@ title: Lamb of God in Spokane!
 date: 2007-03-04T17:53:18-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=25
+guid: http://gundersons.us/josh/?p=25
 permalink: /2007/03/04/lamb-of-god-in-spokane/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Blood Brothers!
 date: 2006-12-09T22:17:19-08:00
 author: joshg253
 layout: post
-guid: http://blogs.gundersons.us/josh/?p=14
+guid: http://gundersons.us/josh/?p=14
 permalink: /2006/12/09/blood-brothers/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
