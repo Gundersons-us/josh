@@ -14,7 +14,7 @@ tags:
   - music
   - Soulfly
 ---
-Roadrunner has the first single off the next Soulfly album available for download <a href="http://www.roadrunnerrecords.com/Music/index.aspx?artistID=262">here</a>. It's badass, I can't wait for the album.
+Roadrunner has the first single off the next Soulfly album available for download <a href="https://www.roadrunnerrecords.com/Music/index.aspx?artistID=262">here</a>. It's badass, I can't wait for the album.
 
 &nbsp;
 

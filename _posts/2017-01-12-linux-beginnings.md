@@ -34,7 +34,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:media-text {"mediaId":1962,"mediaType":"image"} -->
-<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://gundersons.us/josh/wp-content/uploads/sites/2/2019/09/dell5150-1.gif" alt="" class="wp-image-1962"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://gundersons.us/josh/wp-content/uploads/2019/09/dell5150-1.gif" alt="" class="wp-image-1962"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
 <p>Then around 2003 during college I revisited Linux, trying a few on my Dell Inspiron 5150 laptop and eventually buying a boxed copy of SuSE Professional (9.x series) from the Tacoma CompUSA. </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->

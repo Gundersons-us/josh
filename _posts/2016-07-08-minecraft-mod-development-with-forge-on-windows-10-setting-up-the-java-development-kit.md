@@ -21,7 +21,7 @@ I've been studying Java again lately and decided to look into doing a Minecraft 
 
 I'm currently running Windows 10 x64 RTM + latest updates (v1511 build 10586.420).
 
-I started following the <a href="http://mcforge.readthedocs.io/en/latest/gettingstarted/">Getting Started guide in the Forge Documentation</a> and once I got to Step 4 had some issues, so this first post is what I had to do to get the <code>gradlew setupDecompWorkspace</code> step working:
+I started following the <a href="https://mcforge.readthedocs.io/en/latest/gettingstarted/">Getting Started guide in the Forge Documentation</a> and once I got to Step 4 had some issues, so this first post is what I had to do to get the <code>gradlew setupDecompWorkspace</code> step working:
 <h3>Install the latest JDK</h3>
 I installed the latest JDK (JDK 8 update 91) via <a href="https://ninite.com/">Ninite</a>, and uninstalled any older versions.
 <div class="panel panel-default">
@@ -41,6 +41,6 @@ Look for a Variable named JAVA_HOME in the top and bottom panes. If one exists, 
 
 If you don't see one, create a new one in either the top or bottom pane and make sure the value points to your JDK directory, same as above.
 <h3>Continue with the Forge Documentation</h3>
-Then I continued to follow the official guide <a href="http://mcforge.readthedocs.io/en/latest/gettingstarted/">here</a>.
+Then I continued to follow the official guide <a href="https://mcforge.readthedocs.io/en/latest/gettingstarted/">here</a>.
 
 &nbsp;

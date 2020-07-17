@@ -14,6 +14,6 @@ tags:
   - updates
   - WordPress
 ---
-I have a nightly build of WordPress running <span style="text-decoration: line-through"><a href="http://gundersons.us/wordpress/">here</a></span> now. Doesn't look much different on the outside, but the Dashboard looks quite a bit different inside, though I imagine there is more than just a facelift of the Dashboard in the changes.
+I have a nightly build of WordPress running <span style="text-decoration: line-through"><a href="https://gundersons.us/wordpress/">here</a></span> now. Doesn't look much different on the outside, but the Dashboard looks quite a bit different inside, though I imagine there is more than just a facelift of the Dashboard in the changes.
 
 _josh

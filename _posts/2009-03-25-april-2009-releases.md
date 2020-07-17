@@ -68,8 +68,8 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of April that seem int
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>The Chronicles of Riddick: Assault on Dark Athena</strong> - <a href="http://ps3.ign.com/objects/851/851727.html">profile</a></li>
-    <li><strong>The Godfather II</strong> - <a href="http://ps3.ign.com/objects/953/953333.html">profile</a></li>
+    <li><strong>The Chronicles of Riddick: Assault on Dark Athena</strong> - <a href="https://ps3.ign.com/objects/851/851727.html">profile</a></li>
+    <li><strong>The Godfather II</strong> - <a href="https://ps3.ign.com/objects/953/953333.html">profile</a></li>
 </ul>
 
 <h1>April 14, 2009</h1>
@@ -93,16 +93,16 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of April that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li> <strong>Black Sigil: Blade of the Exiled</strong> - <a href="http://ds.ign.com/objects/142/14253403.html">profile</a><a href="http://media.ds.ign.com/media/142/14253403/imgs_1.html"></a></li>
-    <li><strong>C.O.R.E.</strong> - <a href="http://ds.ign.com/objects/946/946923.html">profile</a></li>
-    <li><strong>The Dark Spire</strong> - <a href="http://ds.ign.com/objects/142/14251220.html">profile</a></li>
+    <li> <strong>Black Sigil: Blade of the Exiled</strong> - <a href="https://ds.ign.com/objects/142/14253403.html">profile</a><a href="https://media.ds.ign.com/media/142/14253403/imgs_1.html"></a></li>
+    <li><strong>C.O.R.E.</strong> - <a href="https://ds.ign.com/objects/946/946923.html">profile</a></li>
+    <li><strong>The Dark Spire</strong> - <a href="https://ds.ign.com/objects/142/14251220.html">profile</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Flock</strong> - <a href="http://ps3.ign.com/objects/142/14265383.html">profile</a></li>
-    <li><strong>Ragdoll Kung Fu: Fists of Plastic</strong> - <a href="http://ps3.ign.com/objects/142/14266747.html">profile</a></li>
+    <li><strong>Flock</strong> - <a href="https://ps3.ign.com/objects/142/14265383.html">profile</a></li>
+    <li><strong>Ragdoll Kung Fu: Fists of Plastic</strong> - <a href="https://ps3.ign.com/objects/142/14266747.html">profile</a></li>
 </ul>
 
 <h1>April 21, 2009</h1>
@@ -143,7 +143,7 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of April that seem int
 </em></li>
     <li><strong>Daath</strong> - <em>The Concealers</em>
 <ul>
-    <li>I preordered mine <a href="http://www.cmdistro.com/Item/Daath_-_Concealers_+_Autographed_Booklet_-PRE-ORDER-/29881">here</a> for $14 after shipping. Supposed to be autographed. We'll see.</li>
+    <li>I preordered mine <a href="https://www.cmdistro.com/Item/Daath_-_Concealers_+_Autographed_Booklet_-PRE-ORDER-/29881">here</a> for $14 after shipping. Supposed to be autographed. We'll see.</li>
     <li>04/20: Yep, autographed and arrived early. It fucking rocks. Fuck yeah!</li>
 </ul>
 </li>
@@ -159,13 +159,13 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of April that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>101-in-1 Explosive Megamix</strong> - <a href="http://ds.ign.com/objects/142/14298278.html">profile</a></li>
+    <li><strong>101-in-1 Explosive Megamix</strong> - <a href="https://ds.ign.com/objects/142/14298278.html">profile</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Dynasty Warriors: Gundam 2</strong> - <a href="http://ps3.ign.com/objects/774/774973.html">profile</a></li>
+    <li><strong>Dynasty Warriors: Gundam 2</strong> - <a href="https://ps3.ign.com/objects/774/774973.html">profile</a></li>
 </ul>
 
 <h1>April 28, 2009</h1>
@@ -189,6 +189,6 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of April that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>Elite Forces: Unit 77</strong> - <a href="http://ds.ign.com/objects/142/14248062.html">profile</a></li>
-    <li><strong>Super Robot Taisen OG Saga: Endless Frontier</strong> - <a href="http://ds.ign.com/objects/142/14227448.html">profile</a></li>
+    <li><strong>Elite Forces: Unit 77</strong> - <a href="https://ds.ign.com/objects/142/14248062.html">profile</a></li>
+    <li><strong>Super Robot Taisen OG Saga: Endless Frontier</strong> - <a href="https://ds.ign.com/objects/142/14227448.html">profile</a></li>
 </ul>

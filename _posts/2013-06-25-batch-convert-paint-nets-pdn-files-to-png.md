@@ -15,7 +15,7 @@ tags:
   - Windows
 ---
 <ol>
-    <li>Grab <a href="http://www.comsquare.dnsalias.com/forums/viewforum.php?f=23">pdn2png</a></li>
+    <li>Grab <a href="https://www.comsquare.dnsalias.com/forums/viewforum.php?f=23">pdn2png</a></li>
     <li>Drop the exe from the zip into a folder with all your .PDNs</li>
     <li>Open a command window, navigate to said folder, and run:</li>
 </ol>

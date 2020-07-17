@@ -47,10 +47,10 @@ The install procedure is the same for either app.
     <li>Download the .APKs you want.
 <ul>
     <li>Firefox - I just grabbed the latest mobile build from Mozilla's FTP site at the time, which was <a title="Firefox 34 .APK on Mozilla's FTP site" href="ftp://ftp.mozilla.org/pub/mobile/releases/34.0/android/en-US/fennec-34.0.en-US.android-arm.apk">Firefox 34</a></li>
-    <li>Twilight - I just searched for 'twilight apk' and ended up grabbing it <a title="random site I found searching for twilight apk" href="http://apksteed.com/application/twilight-3-0-apk">here</a>.</li>
+    <li>Twilight - I just searched for 'twilight apk' and ended up grabbing it <a title="random site I found searching for twilight apk" href="https://apksteed.com/application/twilight-3-0-apk">here</a>.</li>
 </ul>
 </li>
-    <li>Install <a href="http://developer.android.com/sdk">adb</a>
+    <li>Install <a href="https://developer.android.com/sdk">adb</a>
 <ul>
     <li>(I already had this installed, maybe I'll fill in steps later)</li>
 </ul>

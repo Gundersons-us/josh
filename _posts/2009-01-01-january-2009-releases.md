@@ -65,7 +65,7 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of January that seem i
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>Elebits: The Adventures of Kai and Zero</strong> - <a href="http://www.konami.com/microsites/eakz/index.html">official site</a></li>
+    <li><strong>Elebits: The Adventures of Kai and Zero</strong> - <a href="https://www.konami.com/microsites/eakz/index.html">official site</a></li>
 </ul>
 
 <h1>Jan. 13</h1>
@@ -87,14 +87,14 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of January that seem i
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>The Lord of the Rings: Conquest </strong>- <a href="http://media.ds.ign.com/media/142/14252978/vids_1.html">videos</a></li>
-    <li><strong>Moon </strong>- <a href="http://www.moon-game.com/">official site</a>, <a href="http://media.ds.gamespy.com/media/142/14215698/vids_1.html">videos</a>, <a href="http://media.ds.gamespy.com/media/142/14215698/imgs_1.html">screenshots</a></li>
+    <li><strong>The Lord of the Rings: Conquest </strong>- <a href="https://media.ds.ign.com/media/142/14252978/vids_1.html">videos</a></li>
+    <li><strong>Moon </strong>- <a href="https://www.moon-game.com/">official site</a>, <a href="https://media.ds.gamespy.com/media/142/14215698/vids_1.html">videos</a>, <a href="https://media.ds.gamespy.com/media/142/14215698/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>The Lord of the Rings: Conquest</strong> - <a href="http://media.ps3.gamespy.com/media/142/14235096/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/142/14235096/imgs_1.html">screenshots</a><strong>
+    <li><strong>The Lord of the Rings: Conquest</strong> - <a href="https://media.ps3.gamespy.com/media/142/14235096/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/142/14235096/imgs_1.html">screenshots</a><strong>
 </strong></li>
 </ul>
 
@@ -128,8 +128,8 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of January that seem i
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>GTI Club +</strong> - Jan. 15 - <a href="http://ps3.gamespy.com/dor/objects/14275428/gti-club-/videos/GtIClub_082008.html">trailer</a></li>
-    <li><strong>Savage Moon</strong> - Jan. 15 - <a href="http://media.ps3.ign.com/media/142/14273870/imgs_1.html">screenshots</a></li>
+    <li><strong>GTI Club +</strong> - Jan. 15 - <a href="https://ps3.gamespy.com/dor/objects/14275428/gti-club-/videos/GtIClub_082008.html">trailer</a></li>
+    <li><strong>Savage Moon</strong> - Jan. 15 - <a href="https://media.ps3.ign.com/media/142/14273870/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h1>Jan. 27</h1>
@@ -180,6 +180,6 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of January that seem i
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Afro Samurai</strong> - <a href="http://media.ps3.gamespy.com/media/142/14233719/vids_1.html">videos</a></li>
-    <li><strong>Skate 2</strong> - Jan. 21 - <a href="http://media.ps3.gamespy.com/media/142/14234978/vids_1.html">videos</a></li>
+    <li><strong>Afro Samurai</strong> - <a href="https://media.ps3.gamespy.com/media/142/14233719/vids_1.html">videos</a></li>
+    <li><strong>Skate 2</strong> - Jan. 21 - <a href="https://media.ps3.gamespy.com/media/142/14234978/vids_1.html">videos</a></li>
 </ul>

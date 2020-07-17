@@ -24,7 +24,7 @@ Murs and 9th Wonder teamed up with Hurley clothing to bring you guys the 3rd ins
 
 http://mursand9thwonder.com</blockquote>
 
-Download <a href="http://www.mursand9thwonder.com/download.html">here</a>.
+Download <a href="https://www.mursand9thwonder.com/download.html">here</a>.
 
 &nbsp;
 

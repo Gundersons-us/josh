@@ -20,7 +20,7 @@ tags:
   - VirtualBox
 ---
 <h2>Background</h2>
-Anymore when it comes to Linux distros I prefer a Debian/Ubuntu base and the <a href="http://mate-desktop.org/">MATE</a> (maté) Desktop Environment (again, my desktop Linux distro of choice is <a href="http://linuxmint.com/">Linux Mint</a> MATE edition). Just give me APT + MATE + Firefox, please.
+Anymore when it comes to Linux distros I prefer a Debian/Ubuntu base and the <a href="https://mate-desktop.org/">MATE</a> (maté) Desktop Environment (again, my desktop Linux distro of choice is <a href="https://linuxmint.com/">Linux Mint</a> MATE edition). Just give me APT + MATE + Firefox, please.
 
 Earlier this year I jumped at the chance to try the official MATE spin of Ubuntu 15.04 Beta, as I do like to try out new builds but I can't stand Unity (or GNOME3 for that matter). Overall, it seemed like a fine OS but I saw no reason to switch from Mint.
 

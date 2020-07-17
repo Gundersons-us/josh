@@ -24,7 +24,7 @@ tags:
 
 Arrived in Seattle around 5pm and had a couple ESBs at Ruth's Chris. We had VIP tickets so we had to be in line "no later than 6pm" so we could get our pretty green Cut-the-Line bracelets and wait outside for an hour or so. We did end up front row on the floor, so it worked out. They made us sit on the floor until the opening act came out (~7:40 I think).
 
-Opening act: Creature with the Atom Brain [<a href="http://en.wikipedia.org/wiki/Creature_with_the_Atom_Brain_(band)">Wikipedia</a>, <a href="http://www.myspace.com/creaturewiththeatombrain">MySpace</a>]. Probably need LSD to appreciate them.
+Opening act: Creature with the Atom Brain [<a href="https://en.wikipedia.org/wiki/Creature_with_the_Atom_Brain_(band)">Wikipedia</a>, <a href="https://www.myspace.com/creaturewiththeatombrain">MySpace</a>]. Probably need LSD to appreciate them.
 
 AiC came on at ~8:30, and played for two hours with minimal breaks (mostly just so Jerry could have a smoke) and came out for one encore with two more songs.
 

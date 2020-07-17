@@ -14,6 +14,6 @@ tags:
   - Gmail
   - Google
 ---
-I came back from building 26 and noticed my Gmail looked a little strange so I hit up the <a href="http://gmailblog.blogspot.com/">Gmail Blog</a>.
+I came back from building 26 and noticed my Gmail looked a little strange so I hit up the <a href="https://gmailblog.blogspot.com/">Gmail Blog</a>.
 
 Gmail now has a <a href="https://mail.google.com/mail/?shva=1#settings/themes">Themes tab</a> in Settings with 30 different themes to choose from. I'm rockin' New Blue for now.

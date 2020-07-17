@@ -16,7 +16,7 @@ tags:
   - "O'Reilly"
   - Textpad
 ---
-O&#039;Reilly is having a contest <a href="http://www.oreillynet.com/oreilly/new-year-2011-enter.csp">here</a> where you create a wishlist of O&#039;Reilly books (worth $500 or less) and post it on your blog. Here&#039;s my list (print version of latest edition of each):
+O&#039;Reilly is having a contest <a href="https://www.oreillynet.com/oreilly/new-year-2011-enter.csp">here</a> where you create a wishlist of O&#039;Reilly books (worth $500 or less) and post it on your blog. Here&#039;s my list (print version of latest edition of each):
 
 <ul>
     <li>Regular Expression Pocket Reference, $14.99</li>

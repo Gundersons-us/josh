@@ -92,13 +92,13 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of March that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>Peggle: Dual Shot</strong> - <a href="http://media.ds.ign.com/media/142/14233829/vids_1.html">videos</a>, <a href="http://media.ds.ign.com/media/142/14233829/imgs_1.html">images</a></li>
+    <li><strong>Peggle: Dual Shot</strong> - <a href="https://media.ds.ign.com/media/142/14233829/vids_1.html">videos</a>, <a href="https://media.ds.ign.com/media/142/14233829/imgs_1.html">images</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Killzone 2</strong> - Feb. 27 - <a href="http://media.ps3.gamespy.com/media/748/748475/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/748/748475/imgs_1.html">screenshots</a></li>
+    <li><strong>Killzone 2</strong> - Feb. 27 - <a href="https://media.ps3.gamespy.com/media/748/748475/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/748/748475/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h1>March 10, 2009</h1>
@@ -140,7 +140,7 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of March that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li> <!-- DESCRIPTION --> <strong>Avalon Code</strong> - <a href="http://media.ds.gamespy.com/media/142/14253169/vids_1.html">videos</a>, <a href="http://media.ds.gamespy.com/media/142/14253169/imgs_1.html">screenshots</a></li>
+    <li> <!-- DESCRIPTION --> <strong>Avalon Code</strong> - <a href="https://media.ds.gamespy.com/media/142/14253169/vids_1.html">videos</a>, <a href="https://media.ds.gamespy.com/media/142/14253169/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h1>March 17, 2009</h1>
@@ -169,18 +169,18 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of March that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li> <!-- DESCRIPTION --> <strong>Grand Theft Auto: Chinatown Wars</strong> - <a href="http://media.ds.gamespy.com/media/142/14266989/imgs_1.html">screenshots</a></li>
-    <li><!-- TITLE --> <span class="contenttitle"><strong>Suikoden Tierkreis</strong> - <a href="http://media.ds.gamespy.com/media/142/14275824/vids_1.html">videos</a>, <a href="http://media.ds.gamespy.com/media/142/14275824/imgs_1.html">screenshots</a></span></li>
-    <li><span class="contenttitle"><strong>TrackMania DS</strong> - <a href="http://media.ds.gamespy.com/media/142/14235403/vids_1.html">videos</a>, <a href="http://media.ds.gamespy.com/media/142/14235403/imgs_1.html">screenshots</a>
+    <li> <!-- DESCRIPTION --> <strong>Grand Theft Auto: Chinatown Wars</strong> - <a href="https://media.ds.gamespy.com/media/142/14266989/imgs_1.html">screenshots</a></li>
+    <li><!-- TITLE --> <span class="contenttitle"><strong>Suikoden Tierkreis</strong> - <a href="https://media.ds.gamespy.com/media/142/14275824/vids_1.html">videos</a>, <a href="https://media.ds.gamespy.com/media/142/14275824/imgs_1.html">screenshots</a></span></li>
+    <li><span class="contenttitle"><strong>TrackMania DS</strong> - <a href="https://media.ds.gamespy.com/media/142/14235403/vids_1.html">videos</a>, <a href="https://media.ds.gamespy.com/media/142/14235403/imgs_1.html">screenshots</a>
 </span></li>
-    <li><span class="contenttitle"><strong>Valkyrie Profile: Covenant of the Plume</strong> - <a href="http://media.ds.ign.com/media/142/14240757/vids_1.html">videos</a>, <a href="http://media.ds.ign.com/media/142/14240757/imgs_1.html">screenshots</a>
+    <li><span class="contenttitle"><strong>Valkyrie Profile: Covenant of the Plume</strong> - <a href="https://media.ds.ign.com/media/142/14240757/vids_1.html">videos</a>, <a href="https://media.ds.ign.com/media/142/14240757/imgs_1.html">screenshots</a>
 </span></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Resident Evil 5</strong> - Mar. 13 - <a href="http://media.ps3.gamespy.com/media/734/734381/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/734/734381/imgs_1.html">screenshots</a></li>
+    <li><strong>Resident Evil 5</strong> - Mar. 13 - <a href="https://media.ps3.gamespy.com/media/734/734381/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/734/734381/imgs_1.html">screenshots</a></li>
     <li><strong>Resident Evil 5</strong> Collectors Edition- Mar. 13
 <ul>
     <li>Extras?</li>
@@ -231,19 +231,19 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of March that seem int
 
 <ul>
     <li><span class="contenttitle"><strong>Broken Sword: The Shadow of the Templar</strong> (Director's Cut)</span></li>
-    <li><strong>Lux-Pain</strong> - <a href="http://media.ds.gamespy.com/media/142/14240949/imgs_1.html">screenshots</a></li>
-    <li><span class="contenttitle"><strong>Pokemon Platinum Version</strong> - Mar. 22 - <a href="http://media.ds.ign.com/media/142/14254510/imgs_1.html">screenshots</a>
+    <li><strong>Lux-Pain</strong> - <a href="https://media.ds.gamespy.com/media/142/14240949/imgs_1.html">screenshots</a></li>
+    <li><span class="contenttitle"><strong>Pokemon Platinum Version</strong> - Mar. 22 - <a href="https://media.ds.ign.com/media/142/14254510/imgs_1.html">screenshots</a>
 </span></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><span class="contenttitle"><strong>Command &amp; Conquer: Red Alert 3</strong> (Ultimate Edition) - <a href="http://media.ps3.gamespy.com/media/142/14235402/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/142/14235402/imgs_1.html">screenshots</a>
+    <li><span class="contenttitle"><strong>Command &amp; Conquer: Red Alert 3</strong> (Ultimate Edition) - <a href="https://media.ps3.gamespy.com/media/142/14235402/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/142/14235402/imgs_1.html">screenshots</a>
 </span></li>
-    <li><span class="contenttitle"><strong>Dynasty Warriors: Gundam 2</strong> - <a href="http://media.ps3.gamespy.com/media/774/774973/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/774/774973/imgs_1.html">screenshots</a>
+    <li><span class="contenttitle"><strong>Dynasty Warriors: Gundam 2</strong> - <a href="https://media.ps3.gamespy.com/media/774/774973/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/774/774973/imgs_1.html">screenshots</a>
 </span></li>
-    <li><strong>Sacred 2: Fallen Angel</strong> - <a href="http://media.ps3.gamespy.com/media/142/14262640/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/142/14262640/imgs_1.html">screenshots</a></li>
+    <li><strong>Sacred 2: Fallen Angel</strong> - <a href="https://media.ps3.gamespy.com/media/142/14262640/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/142/14262640/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h1>March 31, 2009</h1>
@@ -268,16 +268,16 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of March that seem int
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>Final Fantasy Crystal Chronicles: Echoes of Time</strong> - <a href="http://media.ds.gamespy.com/media/142/14286000/vids_1.html">video</a>, <a href="http://media.ds.gamespy.com/media/142/14286000/imgs_1.html">screenshots</a></li>
-    <li><strong>Secret Files: Tunguska</strong> -  <a href="http://media.ds.gamespy.com/media/944/944718/imgs_1.html">screenshots</a></li>
-    <li><strong>Tokyo Beat Down</strong> - <a href="http://media.ds.ign.com/media/142/14278837/imgs_1.html">screenshots</a></li>
-    <li><strong>Touch Mechanic</strong> - <a href="http://media.ds.ign.com/media/143/14303570/imgs_1.html">screenshots</a></li>
+    <li><strong>Final Fantasy Crystal Chronicles: Echoes of Time</strong> - <a href="https://media.ds.gamespy.com/media/142/14286000/vids_1.html">video</a>, <a href="https://media.ds.gamespy.com/media/142/14286000/imgs_1.html">screenshots</a></li>
+    <li><strong>Secret Files: Tunguska</strong> -  <a href="https://media.ds.gamespy.com/media/944/944718/imgs_1.html">screenshots</a></li>
+    <li><strong>Tokyo Beat Down</strong> - <a href="https://media.ds.ign.com/media/142/14278837/imgs_1.html">screenshots</a></li>
+    <li><strong>Touch Mechanic</strong> - <a href="https://media.ds.ign.com/media/143/14303570/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Guitar Hero: Metallica</strong> - Mar. 29 - <a href="http://media.ps3.gamespy.com/media/142/14294148/vids_1.html">videos</a>, <a href="http://media.ps3.gamespy.com/media/142/14294148/imgs_1.html">screenshots</a>
+    <li><strong>Guitar Hero: Metallica</strong> - Mar. 29 - <a href="https://media.ps3.gamespy.com/media/142/14294148/vids_1.html">videos</a>, <a href="https://media.ps3.gamespy.com/media/142/14294148/imgs_1.html">screenshots</a>
 <ul>
     <li>All songs unlocked from the start for Quick Play, Expert+ mode allows a second bass drum pedal.</li>
     <li>Metallica songs:

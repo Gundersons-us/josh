@@ -15,7 +15,7 @@ tags:
 ---
 I created a 'games' tab to declutter my main Apps group a bit, but upon restarting the phone the games group is listed first:
 
-<a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151143.jpg"><img class="size-medium wp-image-1724 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151143-169x300.jpg" alt="" width="169" height="300" /></a>
+<a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151143.jpg"><img class="size-medium wp-image-1724 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151143-169x300.jpg" alt="" width="169" height="300" /></a>
 
 This is not ideal.
 
@@ -29,18 +29,18 @@ Poking around in Nova Settings I eventually figured out a way to do it:
 
 Click the 3 dots in the top right, select Nova Settings (or get to Nova Settings with any other/preferred method):
 
-<a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151153.jpg"><img class="size-medium wp-image-1725 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151153-169x300.jpg" alt="" width="169" height="300" /></a><a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151202.jpg"><img class="size-medium wp-image-1726 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151202-169x300.jpg" alt="" width="169" height="300" /></a>
+<a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151153.jpg"><img class="size-medium wp-image-1725 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151153-169x300.jpg" alt="" width="169" height="300" /></a><a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151202.jpg"><img class="size-medium wp-image-1726 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151202-169x300.jpg" alt="" width="169" height="300" /></a>
 
 Select "Apps &amp; widget drawers", then scroll to the bottom,  and under <strong>Drawer groups</strong>, select "Drawer groups".
 
-<a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151210.jpg"><img class="size-medium wp-image-1727 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151210-169x300.jpg" alt="" width="169" height="300" /></a>
+<a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151210.jpg"><img class="size-medium wp-image-1727 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151210-169x300.jpg" alt="" width="169" height="300" /></a>
 
 Drag the handles (equals signs on the left) up or down to change the order.
 
-<a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151627.jpg"><img class="size-medium wp-image-1728 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151627-169x300.jpg" alt="" width="169" height="300" /></a><a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151631.jpg"><img class="size-medium wp-image-1729 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151631-169x300.jpg" alt="" width="169" height="300" /></a>
+<a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151627.jpg"><img class="size-medium wp-image-1728 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151627-169x300.jpg" alt="" width="169" height="300" /></a><a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151631.jpg"><img class="size-medium wp-image-1729 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151631-169x300.jpg" alt="" width="169" height="300" /></a>
 
 Then back all the way out of Nova Settings and your changes should be reflected:
 
-<a href="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151824.jpg"><img class="size-medium wp-image-1730 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151824-169x300.jpg" alt="" width="169" height="300" /></a>
+<a href="/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151824.jpg"><img class="size-medium wp-image-1730 alignnone" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2016/12/Screenshot_20161220-151824-169x300.jpg" alt="" width="169" height="300" /></a>
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Save</span>

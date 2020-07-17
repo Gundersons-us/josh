@@ -15,7 +15,7 @@ tags:
   - Del tha Funkee Homosapien
   - Del the Funky Homosapien
 ---
-Download Del's 7th album, <em>Funk Man</em>, <a href="http://delthefunkyhomosapien.bandcamp.com/">here</a> for free.
+Download Del's 7th album, <em>Funk Man</em>, <a href="https://delthefunkyhomosapien.bandcamp.com/">here</a> for free.
 
 From Wikipedia:
 

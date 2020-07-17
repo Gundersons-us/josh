@@ -15,4 +15,4 @@ tc-thumb-fld:
 categories:
   - Uncategorized
 ---
-<a href="http://www.bloglovin.com/blog/13561255/?claim=6f76bet6frv">Follow my blog with Bloglovin</a>
+<a href="https://www.bloglovin.com/blog/13561255/?claim=6f76bet6frv">Follow my blog with Bloglovin</a>

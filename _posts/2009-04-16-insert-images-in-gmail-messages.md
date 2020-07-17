@@ -19,4 +19,4 @@ It's about time. Google has added an image insertion button to Gmail (via Labs).
 
 It's in the Labs for my Google Apps-powered domain e-mail as well. Awesome.
 
-[<a href="http://gmailblog.blogspot.com/2009/04/new-in-labs-inserting-images.html">read more</a>]
+[<a href="https://gmailblog.blogspot.com/2009/04/new-in-labs-inserting-images.html">read more</a>]

@@ -91,21 +91,21 @@ So I checked out Fedora 24, Gnome3 dark theme with a bunch of tweaks applied, be
 
 I somehow, again, found myself fondly remembering #! (Crunchbang) and then I thought "what about a Fedora-based system in the same vein as #! (with Openbox + tint2 + conky)?"
 
-So, while binge-watching the latest season of <a href="http://www.imdb.com/title/tt1836037/">Longmire</a>, I experimented with that idea for a while: using a Fedora netinstall as a base, and configuring as necessary to make something similar to #!. Got it to a usable point, then got bored with it, and I also realized how much work (e.g. with "pipes" and such for the menus) the #! guys did to customize Debian/Openbox.
+So, while binge-watching the latest season of <a href="https://www.imdb.com/title/tt1836037/">Longmire</a>, I experimented with that idea for a while: using a Fedora netinstall as a base, and configuring as necessary to make something similar to #!. Got it to a usable point, then got bored with it, and I also realized how much work (e.g. with "pipes" and such for the menus) the #! guys did to customize Debian/Openbox.
 <h4>Viperr</h4>
-That's when I found <a href="https://www.viperr.org">Viperr</a>, which I played with while watching <a href="http://www.imdb.com/title/tt0070047/">The Exorcist</a> (1973) and <a href="http://www.imdb.com/title/tt0204313/">Exorcist: The Beginning</a> (2004), and would describe as "just ok". Really the thing that bugged me most about Viperr was with their theming: they used a couple different shades of blue (one more "neon" one more "pale") for different things that did not go together at all. Totally clashed.
+That's when I found <a href="https://www.viperr.org">Viperr</a>, which I played with while watching <a href="https://www.imdb.com/title/tt0070047/">The Exorcist</a> (1973) and <a href="https://www.imdb.com/title/tt0204313/">Exorcist: The Beginning</a> (2004), and would describe as "just ok". Really the thing that bugged me most about Viperr was with their theming: they used a couple different shades of blue (one more "neon" one more "pale") for different things that did not go together at all. Totally clashed.
 
 So I dumped Viperr and moved on. "What about using other bases for a #!-esque desktop, such as Arch?"
 <h4>Archbang</h4>
 Basically #! but on an Arch foundation. There are a bunch of variations now, even some tiny experimental ones. I just preferred my Arch/Xfce install.
 <h4>Qubes OS</h4>
-Qubes is a really neat idea, separating types of activities into isolated VMs. I played with it for hours while watching <a href="http://www.imdb.com/title/tt0098084/">Pet Sematary</a> (1989), <a href="http://www.imdb.com/title/tt0105128/">Pet Sematary II</a> (1992), and <a href="http://www.imdb.com/title/tt0063522/">Rosemary's Baby</a> (1968), and others.
+Qubes is a really neat idea, separating types of activities into isolated VMs. I played with it for hours while watching <a href="https://www.imdb.com/title/tt0098084/">Pet Sematary</a> (1989), <a href="https://www.imdb.com/title/tt0105128/">Pet Sematary II</a> (1992), and <a href="https://www.imdb.com/title/tt0063522/">Rosemary's Baby</a> (1968), and others.
 
 Ultimately, being unable to easily set up D0 (or whatever) the way I wanted, kinda turned me off.
 <h4>GParted Live</h4>
-Rearranging and resizing partitions, I eventually decided on the current setup (detailed in an <a href="http://gundersons.us/josh/2017/01/04/current-laptop-os-musings-2017-01-edition/">earlier post</a>) which is essentially four 20GB partitions for Linux distros, a shared 2GB swap partition, and the rest for Win10.
+Rearranging and resizing partitions, I eventually decided on the current setup (detailed in an <a href="/josh/2017/01/04/current-laptop-os-musings-2017-01-edition/">earlier post</a>) which is essentially four 20GB partitions for Linux distros, a shared 2GB swap partition, and the rest for Win10.
 <h4>Arch Anywhere</h4>
-I ended up reinstalling Arch again (twice) in October using a different tool called Arch Anywhere -- once while watching <a href="http://www.imdb.com/title/tt0212985/">Hannibal</a> (2001) and once while watching <a href="http://www.imdb.com/title/tt0099697/">Graveyard Shift</a> (1990).
+I ended up reinstalling Arch again (twice) in October using a different tool called Arch Anywhere -- once while watching <a href="https://www.imdb.com/title/tt0212985/">Hannibal</a> (2001) and once while watching <a href="https://www.imdb.com/title/tt0099697/">Graveyard Shift</a> (1990).
 <h4>Ubuntu variants 16.10 releases</h4>
 Also while watching as many ~horror movies as we could in October, I also tried out all the 16.10 releases of the official Ubuntu flavors.
 
@@ -117,11 +117,11 @@ Also while watching as many ~horror movies as we could in October, I also tried 
 
 I also tried Lubuntu and Xubuntu, which were fine yet unremarkable. It is liikely my hatred for Gnome3 led me to skip Ubuntu-Gnome altogether.
 <h4>openSUSE</h4>
-As I've mentioned in a <a href="http://gundersons.us/josh/2017/01/12/linux-beginnings/">previous post</a>, SuSE + KDE3 was my preferred distro/DE combo in college ('04-'05). Now openSUSE just seems like a complicated &amp; bloated has-been.
+As I've mentioned in a <a href="/josh/2017/01/12/linux-beginnings/">previous post</a>, SuSE + KDE3 was my preferred distro/DE combo in college ('04-'05). Now openSUSE just seems like a complicated &amp; bloated has-been.
 <h4>Devuan</h4>
 While I think most distros nowadays have done so, it seems that switching to the systemd init system is a pretty controversial topic within the Linux community. <a href="https://devuan.org/">Devuan</a> (~"dev one") is a fork of Debian without systemd. And since it's Linux, regardless that it's still in beta, there are already several distros based upon it.
 
-In addition to Devuan, I tried out several Devuan-based distros (<a href="https://sourceforge.net/projects/linnix/">STAR</a>, <a href="https://sourceforge.net/projects/zephyrlinux/">Zephyr</a>, <a href="https://sourceforge.net/projects/nelum-dev1/">Nelum-Dev1</a>, <a href="http://www.ibiblio.org/refracta/">Refracta</a>), and similar to Debian stable, it just doesn't seem interesting at all once it's installed, just super outdated. Maybe we don't <em>need</em> the latest kernel, but why not?
+In addition to Devuan, I tried out several Devuan-based distros (<a href="https://sourceforge.net/projects/linnix/">STAR</a>, <a href="https://sourceforge.net/projects/zephyrlinux/">Zephyr</a>, <a href="https://sourceforge.net/projects/nelum-dev1/">Nelum-Dev1</a>, <a href="https://www.ibiblio.org/refracta/">Refracta</a>), and similar to Debian stable, it just doesn't seem interesting at all once it's installed, just super outdated. Maybe we don't <em>need</em> the latest kernel, but why not?
 <h4>Alpine, Void, wattOS</h4>
 These were some "super light" distros I wanted to check out. Although I found out quickly that wattOS is a lightened Ubuntu instead of its own super-light entity like the others.
 <h4>Others</h4>

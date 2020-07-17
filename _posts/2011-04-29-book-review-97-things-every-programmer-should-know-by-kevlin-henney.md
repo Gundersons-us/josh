@@ -14,7 +14,7 @@ tags:
   - books
   - "O'Reilly"
 ---
-<a href="http://oreilly.com/catalog/9780596809485/"><img class="floatright" title="cover" src="http://covers.oreilly.com/images/9780596809485/cat.gif" alt="cover" width="180" height="270" /></a>
+<a href="https://oreilly.com/catalog/9780596809485/"><img class="floatright" title="cover" src="http://covers.oreilly.com/images/9780596809485/cat.gif" alt="cover" width="180" height="270" /></a>
 
 <h3>Book Description</h3>
 
@@ -43,6 +43,6 @@ Some things I took away from this book:
     <li>There is no One Right Way to do something. Obviously I knew this, but as I said above, one author will give you reasons to do something a certain way, and the next will give you reasons not to do it that way.</li>
 </ul>
 
-<a href="http://oreilly.com/catalog/9780596809485/">O'Reilly Product Page</a>
+<a href="https://oreilly.com/catalog/9780596809485/">O'Reilly Product Page</a>
 
-<p class="aligncenter"><a href="http://oreilly.com/bloggers/"><img src="http://cdn.oreilly.com/bloggers/blogger-review-badge-300.png" alt="I review for the O'Reilly Blogger Review Program" width="300" height="250" align="middle" border="0" /></a></p>
+<p class="aligncenter"><a href="https://oreilly.com/bloggers/"><img src="http://cdn.oreilly.com/bloggers/blogger-review-badge-300.png" alt="I review for the O'Reilly Blogger Review Program" width="300" height="250" align="middle" border="0" /></a></p>

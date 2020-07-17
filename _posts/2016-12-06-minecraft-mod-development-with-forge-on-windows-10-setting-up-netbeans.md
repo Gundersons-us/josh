@@ -19,7 +19,7 @@ tags:
 
 Back when I was in University I preferred NetBeans for Java development. I recently took University of Finland's free Java MOOCs and that also happens to be the IDE their code-checking tools use. So I'm used to NetBeans' quirks and prefer to continue to use it.
 
-The official <a href="http://mcforge.readthedocs.io/en/latest/gettingstarted/">Forge Documentation</a> doesn't have setup info for Netbeans (just Eclipse and IntelliJ IDEA) but <a href="http://www.minecraftforge.net/wiki/NetBeans">their Wiki</a> does have a section about importing an Eclipse project.
+The official <a href="https://mcforge.readthedocs.io/en/latest/gettingstarted/">Forge Documentation</a> doesn't have setup info for Netbeans (just Eclipse and IntelliJ IDEA) but <a href="https://www.minecraftforge.net/wiki/NetBeans">their Wiki</a> does have a section about importing an Eclipse project.
 
 Sidenote:
 

@@ -27,6 +27,6 @@ Yesterday Akai released firmware v1.05 for the MPK49. From the release notes:
 </ol>
 </blockquote>
 
-Download can be found <a href="http://www.akaipro.com/contentmgr/showdetails.php/id/1124/tt/5">here</a>.
+Download can be found <a href="https://www.akaipro.com/contentmgr/showdetails.php/id/1124/tt/5">here</a>.
 
 If you're using Reason, which is pure bliss with the MPK49 when it's set up right, make sure you have the latest Reason Remote Files (available on that same page). I had an issue with Pitch Bend where after using the Pitch Bend Wheel on the MPK49 and letting it return to center, Reason would leave it fully 'up'. I'm using Reason 4.01 and don't know if the problem applies to earlier versions.

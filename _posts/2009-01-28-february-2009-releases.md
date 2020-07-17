@@ -109,18 +109,18 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of February that seem 
 <h2>CDs</h2>
 
 <ul>
-    <li><strong>Cannibal Corpse</strong> - <em>Evisceration Plague </em>- <a href="http://www.districtlines.com/11698-Evisceration-Plague-CD/Metal-Blade-Records">preorder</a>
+    <li><strong>Cannibal Corpse</strong> - <em>Evisceration Plague </em>- <a href="https://www.districtlines.com/11698-Evisceration-Plague-CD/Metal-Blade-Records">preorder</a>
 <ul>
     <li>Includes bonus "Making of" DVD</li>
 </ul>
 </li>
     <li><strong>Dir En Grey</strong> - <em>A Knot Of (The End)</em></li>
-    <li><strong>Sunspot Jonz</strong> - <em>The Darkside ov Heaven </em><a href="http://www.accesshiphop.com/store/?itemid=13903">preorder</a>
+    <li><strong>Sunspot Jonz</strong> - <em>The Darkside ov Heaven </em><a href="https://www.accesshiphop.com/store/?itemid=13903">preorder</a>
 <ul>
     <li>Features The Temper Twins, Myka9, and Luckyiam</li>
 </ul>
 </li>
-    <li><strong>Sunspot Jonz</strong> - <em>FIGHT, DESTROY, ROCK</em> <a href="http://www.accesshiphop.com/store/?itemid=12172">preorder</a>
+    <li><strong>Sunspot Jonz</strong> - <em>FIGHT, DESTROY, ROCK</em> <a href="https://www.accesshiphop.com/store/?itemid=12172">preorder</a>
 <ul>
     <li>Features Himself, Myka 9, DWP, Z-Man, Equipto, White Mike, Kwanz, Luckyiam, Moka Only, with production by Sunspot Jonz, Adamatic, Mr. Nemo, Young Kruse, Creasey Buscemi, Nima Fadavi, Moka Only, DJ Fresh, Dirt Nasty, TD, Underrated, Cminus, and Wiz.</li>
 </ul>
@@ -165,14 +165,14 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of February that seem 
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>USA Today Puzzle Craze</strong> <a href="http://media.ds.ign.com/media/142/14277659/imgs_1.html">screenshots</a></li>
+    <li><strong>USA Today Puzzle Craze</strong> <a href="https://media.ds.ign.com/media/142/14277659/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>F.E.A.R. 2: Project Origin</strong> - <a href="http://media.ps3.gamespy.com/media/812/812588/vids_1.html">videos</a></li>
-    <li><strong>Sonic's Ultimate Genesis Collection - </strong><a href="http://media.ps3.ign.com/media/142/14286205/imgs_1.html">screenshots</a><strong>
+    <li><strong>F.E.A.R. 2: Project Origin</strong> - <a href="https://media.ps3.gamespy.com/media/812/812588/vids_1.html">videos</a></li>
+    <li><strong>Sonic's Ultimate Genesis Collection - </strong><a href="https://media.ps3.ign.com/media/142/14286205/imgs_1.html">screenshots</a><strong>
 </strong>
 <ul>
     <li>720p versions of over 40 classic SEGA games including:
@@ -187,7 +187,7 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of February that seem 
 </li>
 </ul>
 </li>
-    <li><strong>X-Blades</strong> - <a href="http://ps3.gamespy.com/dor/objects/14238364/x-blades/videos/XBlades_Trailer_091608.html">trailer</a></li>
+    <li><strong>X-Blades</strong> - <a href="https://ps3.gamespy.com/dor/objects/14238364/x-blades/videos/XBlades_Trailer_091608.html">trailer</a></li>
 </ul>
 
 <h1>February 17, 2009</h1>
@@ -216,15 +216,15 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of February that seem 
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>Dragon Quest V: Hand of the Heavenly Bride</strong> - <a href="http://media.ds.gamespy.com/media/953/953463/imgs_1.html">screenshots</a></li>
-    <li><strong>Fire Emblem: Shadow Dragon</strong> - Feb. 16 - <a href="http://media.ds.ign.com/media/142/14209935/vids_1.html">Videos</a></li>
+    <li><strong>Dragon Quest V: Hand of the Heavenly Bride</strong> - <a href="https://media.ds.gamespy.com/media/953/953463/imgs_1.html">screenshots</a></li>
+    <li><strong>Fire Emblem: Shadow Dragon</strong> - Feb. 16 - <a href="https://media.ds.ign.com/media/142/14209935/vids_1.html">Videos</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>Flower</strong> - Feb 12 - <a href="http://media.ps3.gamespy.com/media/867/867593/vids_1.html">videos</a></li>
-    <li><strong>Street Fighter IV - </strong><a href="http://media.ps3.gamespy.com/media/142/14211548/vids_1.html">videos</a><strong>
+    <li><strong>Flower</strong> - Feb 12 - <a href="https://media.ps3.gamespy.com/media/867/867593/vids_1.html">videos</a></li>
+    <li><strong>Street Fighter IV - </strong><a href="https://media.ps3.gamespy.com/media/142/14211548/vids_1.html">videos</a><strong>
 </strong></li>
     <li><strong>Street Fighter IV</strong> Collector's Edition
 <ul>
@@ -265,15 +265,15 @@ New Blu-ray, CD, DVD, NDS, and PS3 releases for the month of February that seem 
 <h2>Nintendo DS</h2>
 
 <ul>
-    <li><strong>Blue Dragon Plus</strong> - <a href="http://www.yourbluedragon.com/">official site</a>, <a href="http://media.ds.gamespy.com/media/965/965386/imgs_1.html">screenshots</a></li>
-    <li><strong>C.O.R.E.</strong> - <a href="http://www.corethegame.com/">official site</a></li>
-    <li><strong>Legacy of Ys: Books I &amp; II</strong> - <a href="http://media.ds.gamespy.com/media/142/14292367/imgs_1.html">screenshots</a></li>
-    <li><strong>Puzzle Quest: Galactrix</strong> - <a href="http://media.ds.gamespy.com/media/899/899343/vids_1.html">video</a>, <a href="http://media.ds.gamespy.com/media/899/899343/imgs_1.html">screenshots</a></li>
+    <li><strong>Blue Dragon Plus</strong> - <a href="https://www.yourbluedragon.com/">official site</a>, <a href="https://media.ds.gamespy.com/media/965/965386/imgs_1.html">screenshots</a></li>
+    <li><strong>C.O.R.E.</strong> - <a href="https://www.corethegame.com/">official site</a></li>
+    <li><strong>Legacy of Ys: Books I &amp; II</strong> - <a href="https://media.ds.gamespy.com/media/142/14292367/imgs_1.html">screenshots</a></li>
+    <li><strong>Puzzle Quest: Galactrix</strong> - <a href="https://media.ds.gamespy.com/media/899/899343/vids_1.html">video</a>, <a href="https://media.ds.gamespy.com/media/899/899343/imgs_1.html">screenshots</a></li>
 </ul>
 
 <h2>PS3</h2>
 
 <ul>
-    <li><strong>The Godfather II</strong> - <a href="http://media.ps3.gamespy.com/media/953/953333/vids_1.html">videos</a></li>
-    <li><strong>ShellShock 2: Blood Trails</strong> - <a href="http://ps3.gamespy.com/dor/objects/14223631/shellshock-2/videos/shellshock2_mirror_093008.html">trailer</a></li>
+    <li><strong>The Godfather II</strong> - <a href="https://media.ps3.gamespy.com/media/953/953333/vids_1.html">videos</a></li>
+    <li><strong>ShellShock 2: Blood Trails</strong> - <a href="https://ps3.gamespy.com/dor/objects/14223631/shellshock-2/videos/shellshock2_mirror_093008.html">trailer</a></li>
 </ul>

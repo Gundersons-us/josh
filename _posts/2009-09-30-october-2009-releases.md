@@ -328,7 +328,7 @@ tags:
     <li>includes a premium Renegade turntable controller boasting a custom black finish and premium metal controls, custom hardshell carrying case that converts into a DJ stand, and a 2-CD pack featuring previously unreleased tracks from Jay-Z and Eminem.</li>
     <li><strong>Ratchet and Clank Future: A Crack in Time</strong> - $59.99
 <ul>
-    <li><a href="http://blog.us.playstation.com/2009/07/ratchet-clank-future-a-crack-in-time-pre-order-goodies/">preorder bonuses</a>:</li>
+    <li><a href="https://blog.us.playstation.com/2009/07/ratchet-clank-future-a-crack-in-time-pre-order-goodies/">preorder bonuses</a>:</li>
     <li> Amazon: Bolt Package (Box Basher, Bolt Magnetizer, and 5,000 bolts)</li>
     <li><em>Best Buy</em><em>???</em>: Power Package (exclusive weapon skin for one of Ratchet’s weapons, start the game with extra hit points, Cryo Mine Glove) "<em>This pre-order program goes into effect over the next few weeks.</em>"</li>
     <li>Game Crazy: Space Package (exclusive hotrod skin for Ratchet’s ship, 5,000 bolts, and an exclusive Ratchet &amp; Clank PlayStation Home avatar skin)</li>

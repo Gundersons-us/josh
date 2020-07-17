@@ -19,7 +19,7 @@ tags:
   - Windows 7
   - Windows 8
 ---
-I've been using <a href="http://portableapps.com">PortableApps</a> and <a href="http://trillian.im">Trillian Pro</a> for years, but there is no official way to run Trillian from a USB stick. So I did some digging a while back and got it working.
+I've been using <a href="https://portableapps.com">PortableApps</a> and <a href="https://trillian.im">Trillian Pro</a> for years, but there is no official way to run Trillian from a USB stick. So I did some digging a while back and got it working.
 
 Setup
 I'm using my Microsoft Account to log into a 64-bit Windows 8 PC, so if you're using something different the folders below may be slightly different.

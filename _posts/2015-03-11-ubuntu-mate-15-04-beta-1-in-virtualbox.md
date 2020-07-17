@@ -18,13 +18,13 @@ tags:
   - Ubuntu
   - VirtualBox
 ---
-My distro of choice is <a href="http://linuxmint.com/">Linux Mint</a> MATE edition, so naturally I was excited to hear there is an official MATE spin of Ubuntu. <a href="http://mate-desktop.org/">MATE</a> (maté) is a fork of the old GNOME2 desktop environment, with bugfixes and enhancements.
+My distro of choice is <a href="https://linuxmint.com/">Linux Mint</a> MATE edition, so naturally I was excited to hear there is an official MATE spin of Ubuntu. <a href="https://mate-desktop.org/">MATE</a> (maté) is a fork of the old GNOME2 desktop environment, with bugfixes and enhancements.
 
-Here's my experience this evening while watching season 9 &amp; 10 of <a href="http://roosterteeth.com/archive/?sid=rvb">Red vs. Blue</a>.
+Here's my experience this evening while watching season 9 &amp; 10 of <a href="https://roosterteeth.com/archive/?sid=rvb">Red vs. Blue</a>.
 
 &nbsp;
 
-I started downloading the <a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/vivid/beta-1/">Ubuntu MATE 15.04 Beta 1 ISO</a> and while that trickled in at only ~1MB/s, I downloaded and installed <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a> v4.3.24.
+I started downloading the <a href="https://cdimage.ubuntu.com/ubuntu-mate/releases/vivid/beta-1/">Ubuntu MATE 15.04 Beta 1 ISO</a> and while that trickled in at only ~1MB/s, I downloaded and installed <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a> v4.3.24.
 
 I created a new VM with default options (including only an 8GB VDI) besides bumping up Memory size to 2GB.
 
