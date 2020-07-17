@@ -8,11 +8,11 @@ guid: http://blog.gundersons.us/2007/11/01/springfallsummer-07-video/
 permalink: /2007/11/01/springsummerfall-07-video/
 enclosure:
   - |
-    http://gundersons.us/media/halloween07.wmv
+    /josh/media/halloween07.wmv
     62645727
     video/x-ms-wmv
   - |
-    http://gundersons.us/media/halloween07-1.wmv
+    /josh/media/halloween07-1.wmv
     31341147
     video/x-ms-wmv
 tc-thumb-fld:
