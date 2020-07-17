@@ -4,7 +4,7 @@ title: Sideload Android apps on your Amazon Fire TV Stick
 date: 2015-01-31T18:34:48-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1395
+guid: https://gundersons.us/josh/?p=1395
 permalink: /2015/01/31/amazon-fire-tv-stick/
 layout_key:
   - ""

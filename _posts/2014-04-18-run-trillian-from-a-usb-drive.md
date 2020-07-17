@@ -4,7 +4,7 @@ title: Run Trillian from a USB drive
 date: 2014-04-18T01:40:49-07:00
 author: joshg253
 layout: post
-guid: http://blog.joshgunderson.info/?p=28
+guid: https://blog.joshgunderson.info/?p=28
 permalink: /2014/04/18/run-trillian-from-a-usb-drive/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

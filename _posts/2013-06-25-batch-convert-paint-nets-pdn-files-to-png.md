@@ -4,7 +4,7 @@ title: batch convert PDN images to PNG
 date: 2013-06-25T15:46:37-07:00
 author: joshg253
 layout: post
-guid: http://joshgunderson.info/wp/?p=6
+guid: https://joshgunderson.info/wp/?p=6
 permalink: /2013/06/25/batch-convert-paint-nets-pdn-files-to-png/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

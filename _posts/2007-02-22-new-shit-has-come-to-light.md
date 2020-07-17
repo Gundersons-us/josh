@@ -4,7 +4,7 @@ title: New shit has come to light.
 date: 2007-02-22T19:36:22-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=16
+guid: https://gundersons.us/josh/?p=16
 permalink: /2007/02/22/new-shit-has-come-to-light/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
@@ -34,6 +34,6 @@ We got tickets for a few upcoming concerts: <a href="https://www.lamb-of-god.com
 I drove out to Snoqualmie on Saturday and took some <a href="https://joshg253.deviantart.com/gallery/">pictures</a> with my <a href="https://www.usa.canon.com/consumer/controller?act=ModelDetailAct&amp;fcategoryid=139&amp;modelid=14256">new camera</a>. Been sick with stomach shit lately. Upgraded an <a href="https://h20341.www2.hp.com/integrity/cache/342108-0-0-225-121.html">rx8640</a> to <a href="https://www.intel.com/business/itanium/index.htm">Montecito</a> today, went great, other than having to re-solder a loose connection for a processor fan.
 
 Fuck yeah:<br />
-<a href="https://www.speedtest.net"><img src="http://www.speedtest.net/result/89972769.png" /></a>
+<a href="https://www.speedtest.net"><img src="https://www.speedtest.net/result/89972769.png" /></a>
 
 _josh

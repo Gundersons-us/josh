@@ -4,7 +4,7 @@ title: November 2008 Releases
 date: 2008-10-29T01:26:15-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=290
+guid: https://gundersons.us/josh/?p=290
 permalink: /2008/10/29/november-2008-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Seattle Courthouse
 date: 2007-09-21T17:39:59-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/2007/09/21/seattle-courthouse/
+guid: https://gundersons.us/josh/2007/09/21/seattle-courthouse/
 permalink: /2007/09/21/seattle-courthouse/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

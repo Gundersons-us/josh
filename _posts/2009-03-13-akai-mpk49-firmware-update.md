@@ -4,7 +4,7 @@ title: Akai MPK49 firmware update
 date: 2009-03-13T18:54:40-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/2009/03/13/akai-mpk49-firmware-update/
+guid: https://gundersons.us/josh/2009/03/13/akai-mpk49-firmware-update/
 permalink: /2009/03/13/akai-mpk49-firmware-update/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

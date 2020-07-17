@@ -4,7 +4,7 @@ title: Free download of the new Del album
 date: 2009-03-30T22:19:26-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=592
+guid: https://gundersons.us/josh/?p=592
 permalink: /2009/03/30/free-download-of-the-new-del-album/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

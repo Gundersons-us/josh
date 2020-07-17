@@ -4,7 +4,7 @@ title: January 2011 Releases
 date: 2010-12-29T01:08:53-08:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1047
+guid: https://gundersons.us/josh/?p=1047
 permalink: /2010/12/29/january-2011-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

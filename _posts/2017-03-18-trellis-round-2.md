@@ -4,7 +4,7 @@ title: Trellis, round 2
 date: 2017-03-18T01:27:59-07:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1797
+guid: https://gundersons.us/josh/?p=1797
 permalink: /2017/03/18/trellis-round-2/
 categories:
   - Uncategorized

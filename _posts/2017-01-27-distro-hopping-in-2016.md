@@ -4,7 +4,7 @@ title: Distro-hopping in 2016
 date: 2017-01-27T16:50:32-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1737
+guid: https://gundersons.us/josh/?p=1737
 permalink: /2017/01/27/distro-hopping-in-2016/
 categories:
   - software

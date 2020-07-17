@@ -4,7 +4,7 @@ title: Firefox 3 Released!
 date: 2008-06-17T16:30:26-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=90
+guid: https://gundersons.us/josh/?p=90
 permalink: /2008/06/17/firefox-3-released/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
@@ -36,6 +36,6 @@ The main Addons I use are:
 
 <blockquote>The release of Firefox 3 kicks off Download Day, the Mozilla community’s grassroots campaign to set a brand new Guinness World Record for the greatest number of software downloads in 24 hours. The worldwide community effort begins the minute Firefox 3 is released and will continue for a full day.</blockquote>
 
-<a href="https://www.spreadfirefox.com/node&amp;id=19865&amp;t=307"><img alt="Firefox 3" title="Firefox 3" src="http://sfx-images.mozilla.org/affiliates/Buttons/firefox3/200x32_best-yet.png" /></a>
+<a href="https://www.spreadfirefox.com/node&amp;id=19865&amp;t=307"><img alt="Firefox 3" title="Firefox 3" src="https://sfx-images.mozilla.org/affiliates/Buttons/firefox3/200x32_best-yet.png" /></a>
 
 _josh

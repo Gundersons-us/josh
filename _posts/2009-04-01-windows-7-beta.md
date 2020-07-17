@@ -4,7 +4,7 @@ title: Windows 7 beta
 date: 2009-04-01T14:45:06-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=630
+guid: https://gundersons.us/josh/?p=630
 permalink: /2009/04/01/windows-7-beta/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

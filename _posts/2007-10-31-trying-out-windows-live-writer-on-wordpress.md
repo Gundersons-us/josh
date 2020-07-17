@@ -4,7 +4,7 @@ title: Trying out Windows Live Writer on WordPress
 date: 2007-10-31T23:04:04-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/2007/10/31/trying-out-windows-live-writer-on-wordpress/
+guid: https://gundersons.us/josh/2007/10/31/trying-out-windows-live-writer-on-wordpress/
 permalink: /2007/10/31/trying-out-windows-live-writer-on-wordpress/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

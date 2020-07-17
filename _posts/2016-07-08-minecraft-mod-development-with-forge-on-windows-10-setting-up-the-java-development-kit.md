@@ -4,7 +4,7 @@ title: 'Minecraft mod development with Forge on Windows 10: Setting up the Java 
 date: 2016-07-08T13:37:04-07:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1671
+guid: https://gundersons.us/josh/?p=1671
 permalink: /2016/07/08/minecraft-mod-development-with-forge-on-windows-10-setting-up-the-java-development-kit/
 categories:
   - how-to

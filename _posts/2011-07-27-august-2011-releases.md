@@ -4,7 +4,7 @@ title: August 2011 Releases
 date: 2011-07-27T01:32:33-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1197
+guid: https://gundersons.us/josh/?p=1197
 permalink: /2011/07/27/august-2011-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

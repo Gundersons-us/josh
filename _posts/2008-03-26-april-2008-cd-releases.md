@@ -4,7 +4,7 @@ title: April 2008 CD Releases
 date: 2008-03-26T15:36:51-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=68
+guid: https://gundersons.us/josh/?p=68
 permalink: /2008/03/26/april-2008-cd-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

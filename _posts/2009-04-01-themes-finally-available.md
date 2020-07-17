@@ -4,7 +4,7 @@ title: Themes finally available
 date: 2009-04-01T00:00:15-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=594
+guid: https://gundersons.us/josh/?p=594
 permalink: /2009/04/01/themes-finally-available/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Windows 8.1 Preview
 date: 2013-06-26T02:44:23-07:00
 author: joshg253
 layout: post
-guid: http://blog.joshgunderson.info/?p=19
+guid: https://blog.joshgunderson.info/?p=19
 permalink: /2013/06/26/windows-8-1-preview/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

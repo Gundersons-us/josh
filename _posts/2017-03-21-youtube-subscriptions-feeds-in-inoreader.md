@@ -4,7 +4,7 @@ title: YouTube subscriptions feeds in Inoreader
 date: 2017-03-21T12:09:49-07:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1800
+guid: https://gundersons.us/josh/?p=1800
 permalink: /2017/03/21/youtube-subscriptions-feeds-in-inoreader/
 categories:
   - how-to

@@ -4,7 +4,7 @@ title: 'Book Review: 97 Things Every Programmer Should Know by Kevlin Henney'
 date: 2011-04-29T23:30:34-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1110
+guid: https://gundersons.us/josh/?p=1110
 permalink: /2011/04/29/book-review-97-things-every-programmer-should-know-by-kevlin-henney/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
@@ -14,7 +14,7 @@ tags:
   - books
   - "O'Reilly"
 ---
-<a href="https://oreilly.com/catalog/9780596809485/"><img class="floatright" title="cover" src="http://covers.oreilly.com/images/9780596809485/cat.gif" alt="cover" width="180" height="270" /></a>
+<a href="https://oreilly.com/catalog/9780596809485/"><img class="floatright" title="cover" src="https://covers.oreilly.com/images/9780596809485/cat.gif" alt="cover" width="180" height="270" /></a>
 
 <h3>Book Description</h3>
 
@@ -45,4 +45,4 @@ Some things I took away from this book:
 
 <a href="https://oreilly.com/catalog/9780596809485/">O'Reilly Product Page</a>
 
-<p class="aligncenter"><a href="https://oreilly.com/bloggers/"><img src="http://cdn.oreilly.com/bloggers/blogger-review-badge-300.png" alt="I review for the O'Reilly Blogger Review Program" width="300" height="250" align="middle" border="0" /></a></p>
+<p class="aligncenter"><a href="https://oreilly.com/bloggers/"><img src="https://cdn.oreilly.com/bloggers/blogger-review-badge-300.png" alt="I review for the O'Reilly Blogger Review Program" width="300" height="250" align="middle" border="0" /></a></p>

@@ -4,7 +4,7 @@ title: convert FLAC to MP3 using LameXP
 date: 2014-04-05T01:39:13-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1340
+guid: https://gundersons.us/josh/?p=1340
 permalink: /2014/04/05/convert-flac-to-mp3-using-lamexp/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
@@ -16,7 +16,7 @@ I have EAC set up to rip Perfect FLA rips, and then to transcode to MP3 I use an
 
 <h1>Setup</h1>
 
-Grab the latest LameXP: http://lamexp.sourceforge.net/
+Grab the latest LameXP: https://lamexp.sourceforge.net/
 Extract the ZIP to a folder, or run the installer
 Agree to
 Check for updates or Postpone

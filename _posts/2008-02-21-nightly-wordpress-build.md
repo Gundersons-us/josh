@@ -4,7 +4,7 @@ title: Nightly WordPress build
 date: 2008-02-21T00:58:11-08:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/2008/02/21/nightly-wordpress-build/
+guid: https://gundersons.us/josh/2008/02/21/nightly-wordpress-build/
 permalink: /2008/02/21/nightly-wordpress-build/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

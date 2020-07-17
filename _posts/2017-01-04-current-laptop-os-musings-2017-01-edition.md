@@ -4,7 +4,7 @@ title: Current Laptop OS Musings, 2017.01 Edition
 date: 2017-01-04T22:05:07-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1744
+guid: https://gundersons.us/josh/?p=1744
 permalink: /2017/01/04/current-laptop-os-musings-2017-01-edition/
 categories:
   - software
@@ -31,20 +31,20 @@ TL;DR: an incoherent rant detailing the OSs currently installed on my VAIO lapto
 <h3>/dev/hda: Kingston HyperX 3K 240GB SATA III MLC SSD (SH103S3/240G)</h3>
 Nice, fast SSD. No complaints, except I'd like a larger one to be able to install more distros simultaneously. I basically have four 20GB slots for Linux installs, but it'd be nice to be able to keep more around and see how they behave with updates and such to get a better feel and overall opinion of them.
 <p style="padding-left: 30px;"><strong>/dev/hda1-3</strong> (~143GB): Windows 10 Pro x64 RTM + latest updates, and 2 apparently necessary additional 500MB partitions for Windows 10 to function.</p>
-<p style="padding-left: 30px;"><img class="aligncenter wp-image-1749 size-large" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/win-1024x576.png" width="700" height="394" /></p>
+<p style="padding-left: 30px;"><img class="aligncenter wp-image-1749 size-large" src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/win-1024x576.png" width="700" height="394" /></p>
 <p style="padding-left: 30px;">My biggest complaint with Windows 10 at the moment deals with Sleep/Standby, and more specifically laptops with external mice attached.</p>
 <p style="padding-left: 30px;">If I wake it with the external wireless/USB mouse, then look away for 2 minutes to respond to a text message, it'll put itself to sleep. This does not happen when I wake it with the power button.</p>
 <p style="padding-left: 30px;">There is a separate setting specifically for sleeping after being awoken by external device, and you have to modify the registry to even expose it. And then every system update resets &amp; hides the setting again (I think).</p>
 <p style="padding-left: 30px;"><strong>/dev/hda4</strong>: extended partition containing the following:</p>
 <p style="padding-left: 60px;"><strong>/dev/hda5</strong> (20GB): Arch/Xfce (installed using <a href="https://arch-anywhere.org/">Arch Anywhere</a>)</p>
-<p style="padding-left: 60px;"><img class="aligncenter wp-image-1752 size-large" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/Screenshot_2017-01-07_18-31-37-1024x576.png" width="700" height="394" /></p>
+<p style="padding-left: 60px;"><img class="aligncenter wp-image-1752 size-large" src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/Screenshot_2017-01-07_18-31-37-1024x576.png" width="700" height="394" /></p>
 <p style="padding-left: 60px;">Really dig this setup. Biggest complaint (on all distros I think) is <em>still</em> how dark themes work with web elements in Firefox. Currently using a Stylish userstyle and manually adding additional things that don't show up right. Someday...</p>
 <p style="padding-left: 60px;"><strong>/dev/hda6</strong> (20GB): Linux Mint 18.1/Cinnamon</p>
-<p style="padding-left: 60px;"><img class="aligncenter wp-image-1750 size-large" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/Screenshot-from-2017-01-07-18-30-03-1024x576.png" width="700" height="394" /></p>
+<p style="padding-left: 60px;"><img class="aligncenter wp-image-1750 size-large" src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/Screenshot-from-2017-01-07-18-30-03-1024x576.png" width="700" height="394" /></p>
 <p style="padding-left: 60px;">Mint has been my go-to since '09 or so (Mint 7 maybe?), but over the past few years I've been disto-hopping more and more.</p>
 <p style="padding-left: 60px;">This is the latest version of good ol' Mint with their own desktop environment. And aside from the "dark themes vs web elements" issues noted above, I'm really diggin the look of the Mint-Y Dark theme and Icons. Mint 18 seemed to have some issues, though after the 18.1 update, I can't even remember what they were.</p>
 <p style="padding-left: 60px;"><strong>/dev/hda7</strong> (20GB): Fedora 25/gnome3</p>
-<p style="padding-left: 60px;"><img class="aligncenter wp-image-1751 size-large" src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/Screenshot-from-2017-01-07-18-36-10-1024x576.png" width="700" height="394" /></p>
+<p style="padding-left: 60px;"><img class="aligncenter wp-image-1751 size-large" src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/Screenshot-from-2017-01-07-18-36-10-1024x576.png" width="700" height="394" /></p>
 <p style="padding-left: 60px;">Man, I <em>still</em> really do not like gnome3 -- so much that I refuse to write in all (or any!) caps like they seem to prefer. I purposely chose it for this Fedora install so I'd be forced to use it and perhaps get more used to it (as if that was the problem...) but even with all the tweaks that I can find applied, still not great. It does look nice. I dig the Nodoka theme, especially the midnight variation.</p>
 <p style="padding-left: 60px;">Wayland is the default display session in Fedora 25 and <a href="https://justgetflux.com/">f.lux</a> (one of my requirements) refuses to run under Wayland. Easy fix for that though: just need to select the non-Wayland session before you log in.</p>
 <p style="padding-left: 60px;"><strong>/dev/hda8</strong> (20GB): <a href="https://4mlinux.com/">4MLinux</a> 21/JWM (Joe's Window Manager)</p>

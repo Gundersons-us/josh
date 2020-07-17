@@ -4,7 +4,7 @@ title: February 2010 Releases
 date: 2010-01-26T01:51:59-08:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=755
+guid: https://gundersons.us/josh/?p=755
 permalink: /2010/01/26/february-2010-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

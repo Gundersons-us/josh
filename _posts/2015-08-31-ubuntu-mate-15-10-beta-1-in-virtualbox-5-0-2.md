@@ -4,7 +4,7 @@ title: Ubuntu MATE 15.10 Beta 1 in VirtualBox 5.0.2
 date: 2015-08-31T15:45:13-07:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1429
+guid: https://gundersons.us/josh/?p=1429
 permalink: /2015/08/31/ubuntu-mate-15-10-beta-1-in-virtualbox-5-0-2/
 layout_key:
   - ""
@@ -172,7 +172,7 @@ Below are my usual next steps with notes regarding this specific install.
 	<li>a shortcut to Terminal</li>
 </ul>
 </li>
-	<li>Ends up looking like this: http://imgur.com/N6bpfoI</li>
+	<li>Ends up looking like this: https://imgur.com/N6bpfoI</li>
 </ul>
 </li>
 	<li>Firefox:

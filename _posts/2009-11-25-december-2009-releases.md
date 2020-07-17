@@ -4,7 +4,7 @@ title: December 2009 Releases
 date: 2009-11-25T01:00:35-08:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=739
+guid: https://gundersons.us/josh/?p=739
 permalink: /2009/11/25/december-2009-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -5,7 +5,7 @@ date: 2007-09-19T20:24:02-07:00
 author: joshg253
 excerpt: Excerpt?
 layout: post
-guid: http://blog.gundersons.us/2007/09/19/new-versions/
+guid: https://gundersons.us/josh/2007/09/19/new-versions/
 permalink: /2007/09/19/new-versions/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

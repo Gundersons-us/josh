@@ -4,7 +4,7 @@ title: April 2012 Releases
 date: 2012-03-28T01:21:15-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1281
+guid: https://gundersons.us/josh/?p=1281
 permalink: /2012/03/28/april-2012-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

@@ -4,7 +4,7 @@ title: Reminiscing about making web pages
 date: 2015-03-01T12:03:27-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1405
+guid: https://gundersons.us/josh/?p=1405
 permalink: /2015/03/01/reminiscing-about-making-web-pages/
 layout_key:
   - ""
@@ -29,4 +29,4 @@ I think AcmeCity was similar to Geocites.
 
 *) joshg253.com during college -- I have some back ups. I used a credit card and student discount to grab Macromedia Studio MX (or Studio MX 2004?) and Adobe Creative Suite 2.
 
-Then I guess I took a few years off with no site (really? or just some free hosting maybe?) then registered gundersons.us in 2007, which I now want to re-purpose for my musical endeavors.
+Then I guess I took a few years off with no site (really? or just some free hosting maybe?) then registered kverke.com in 2007, which I now want to re-purpose for my musical endeavors.

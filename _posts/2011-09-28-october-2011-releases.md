@@ -4,7 +4,7 @@ title: October 2011 Releases
 date: 2011-09-28T01:32:55-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1221
+guid: https://gundersons.us/josh/?p=1221
 permalink: /2011/09/28/october-2011-releases/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

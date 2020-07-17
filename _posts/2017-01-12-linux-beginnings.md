@@ -4,7 +4,7 @@ title: Linux Beginnings
 date: 2017-01-12T23:56:30-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1756
+guid: https://gundersons.us/josh/?p=1756
 permalink: /2017/01/12/linux-beginnings/
 categories:
   - software
@@ -26,7 +26,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1770,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/tclos6-257x300.jpg" alt="" class="wp-image-1770"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/tclos6-257x300.jpg" alt="" class="wp-image-1770"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -40,13 +40,13 @@ tags:
 <!-- /wp:media-text -->
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":1766,"mediaType":"image","mediaWidth":23} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right" style="grid-template-columns:auto 23%"><figure class="wp-block-media-text__media"><img src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/3899900650.03.LZZZZZZZ-241x300.jpg" alt="" class="wp-image-1766"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<div class="wp-block-media-text alignwide has-media-on-the-right" style="grid-template-columns:auto 23%"><figure class="wp-block-media-text__media"><img src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/3899900650.03.LZZZZZZZ-241x300.jpg" alt="" class="wp-image-1766"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
 <p>I was amazed at how much easier installation was and how much more  polished everything looked. I seem to remember hating Gnome2 and  preferring KDE3 at the time. We also used Red Hat (also 9, I think) in  class. </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:image {"id":1767,"align":"left","width":131,"height":82} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/linksys-carte-pcmcia-wpc54gs-e1484287525757-300x187.jpg" alt="" class="wp-image-1767" width="131" height="82"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized"><img src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/linksys-carte-pcmcia-wpc54gs-e1484287525757-300x187.jpg" alt="" class="wp-image-1767" width="131" height="82"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -58,7 +58,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:media-text {"mediaId":1768,"mediaType":"image","mediaWidth":16} -->
-<div class="wp-block-media-text alignwide" style="grid-template-columns:16% auto"><figure class="wp-block-media-text__media"><img src="http://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/nook-s7g-800-e1484287607438-198x300.jpg" alt="" class="wp-image-1768"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
+<div class="wp-block-media-text alignwide" style="grid-template-columns:16% auto"><figure class="wp-block-media-text__media"><img src="https://gundersons.us/josh/wp-content/uploads/sites/2/2017/01/nook-s7g-800-e1484287607438-198x300.jpg" alt="" class="wp-image-1768"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->
 <p>
 Then I hadn't been using Linux at all since working on-site at 
 Microsoft, but in 2010 I "needed" to root my Nook (the original gimmicky
@@ -71,7 +71,7 @@ VirtualBox, setup a shared folder, and was able to root the Nook.
 <!-- /wp:media-text -->
 
 <!-- wp:image {"id":1964,"align":"right"} -->
-<div class="wp-block-image"><figure class="alignright"><img src="http://gundersons.us/josh/wp-content/uploads/sites/2/2019/09/1423936087_1208205534_o-e1569165405290-300x225.jpg" alt="" class="wp-image-1964"/></figure></div>
+<div class="wp-block-image"><figure class="alignright"><img src="https://gundersons.us/josh/wp-content/uploads/sites/2/2019/09/1423936087_1208205534_o-e1569165405290-300x225.jpg" alt="" class="wp-image-1964"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

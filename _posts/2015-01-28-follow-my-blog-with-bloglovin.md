@@ -4,7 +4,7 @@ title: Follow my blog with Bloglovin
 date: 2015-01-28T21:47:29-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1390
+guid: https://gundersons.us/josh/?p=1390
 permalink: /2015/01/28/follow-my-blog-with-bloglovin/
 layout_key:
   - ""

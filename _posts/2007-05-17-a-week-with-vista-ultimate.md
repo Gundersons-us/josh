@@ -4,7 +4,7 @@ title: A Week with Vista Ultimate
 date: 2007-05-17T11:38:11-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=45
+guid: https://gundersons.us/josh/?p=45
 permalink: /2007/05/17/a-week-with-vista-ultimate/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

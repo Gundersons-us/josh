@@ -4,7 +4,7 @@ title: More Portable App Adventures
 date: 2015-03-08T16:10:03-07:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1408
+guid: https://gundersons.us/josh/?p=1408
 permalink: /2015/03/08/more-portable-app-adventures/
 layout_key:
   - ""

@@ -4,7 +4,7 @@ title: Updated to-do list for my Altima Coupe
 date: 2009-06-02T20:16:49-07:00
 author: joshg253
 layout: post
-guid: http://blog.roadpwnage.com/joshg253/?p=17
+guid: https://gundersons.us/josh/?p=17
 permalink: /2009/06/02/updated-to-do-list-for-my-altima-coupe/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

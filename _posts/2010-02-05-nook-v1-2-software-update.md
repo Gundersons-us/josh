@@ -4,7 +4,7 @@ title: nook v1.2 software update
 date: 2010-02-05T12:44:57-08:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=799
+guid: https://gundersons.us/josh/?p=799
 permalink: /2010/02/05/nook-v1-2-software-update/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

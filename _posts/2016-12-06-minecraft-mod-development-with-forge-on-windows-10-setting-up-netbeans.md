@@ -4,7 +4,7 @@ title: 'Minecraft mod development with Forge on Windows 10: Setting up NetBeans'
 date: 2016-12-06T21:55:09-08:00
 author: joshg253
 layout: post
-guid: http://gundersons.us/josh/?p=1688
+guid: https://gundersons.us/josh/?p=1688
 permalink: /2016/12/06/minecraft-mod-development-with-forge-on-windows-10-setting-up-netbeans/
 categories:
   - how-to
@@ -31,7 +31,7 @@ The next step in the official docs says for Eclipse just run <code>gradlew eclip
 
 <h3>Second experiment:</h3>
 
-(Thanks to this awesome post: http://epik.org.uk/effortless-minecraft-forge-with-netbeans/)
+(Thanks to this awesome post: https://epik.org.uk/effortless-minecraft-forge-with-netbeans/)
 
 Open Netbeans, Tools -&gt; Plugins. Available Plugins tab, search for 'gradle". I see two: Gradle JavaEE Support (last updated 12/26/14) and Gradle Support (last updated 1/9/16).
 

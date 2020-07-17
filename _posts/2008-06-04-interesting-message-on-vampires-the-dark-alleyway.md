@@ -4,7 +4,7 @@ title: Interesting message on Vampires! The Dark Alleyway
 date: 2008-06-04T01:31:38-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=81
+guid: https://gundersons.us/josh/?p=81
 permalink: /2008/06/04/interesting-message-on-vampires-the-dark-alleyway/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

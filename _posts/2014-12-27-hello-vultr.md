@@ -4,7 +4,7 @@ title: Hello Vultr!
 date: 2014-12-27T05:03:49-08:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=1
+guid: https://gundersons.us/josh/?p=1
 permalink: /2014/12/27/hello-vultr/
 layout_key:
   - ""

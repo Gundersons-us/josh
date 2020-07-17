@@ -4,7 +4,7 @@ title: Removing folders without having to format
 date: 2009-09-21T01:42:50-07:00
 author: joshg253
 layout: post
-guid: http://blog.gundersons.us/?p=694
+guid: https://gundersons.us/josh/?p=694
 permalink: /2009/09/21/removing-folders-without-having-to-format/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
