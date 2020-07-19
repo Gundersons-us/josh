@@ -21,8 +21,8 @@ This is WordPress 2.2.3 now.
 
 <span style="text-decoration: line-through">I have phpBB3 RC5 running <a href="https://forum.gundersons.us/">here</a>.</span>
 
-<span style="text-decoration: line-through">I have WordPress 2.3 RC1 running <a href="https://gundersons.us/josh-beta/">here</a>.</span>
+<span style="text-decoration: line-through">I have WordPress 2.3 RC1 running <a href="/josh-beta/">here</a>.</span>
 
-<span style="text-decoration: line-through">I have Drupal 6.0 Beta 1 running <a href="https://gundersons.us/drupal6/">here</a>.</span>
+<span style="text-decoration: line-through">I have Drupal 6.0 Beta 1 running <a href="/drupal6/">here</a>.</span>
 
 _josh
