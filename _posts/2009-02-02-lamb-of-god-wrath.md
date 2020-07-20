@@ -25,7 +25,7 @@ The levels seem weird, like I'm listening to the radio or a cassette tape. I hop
 <h3>Track By Track</h3>
 
 <ol>
-    <li><strong>The Passin</strong>g (1:58)
+    <li><strong>The Passing</strong>g (1:58)
 The acoustic intro sounds more like Down song than Lamb of God</li>
     <li><strong>In Your Words</strong> (5:24)
 Comes in fierce, sounds like a pre-Ashes Lamb of God song, then the sung vocals remind me of later Type O Negative sung vocals</li>
